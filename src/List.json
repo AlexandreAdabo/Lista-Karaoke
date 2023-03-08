@@ -1,0 +1,5205 @@
+{
+  "__collections__": {
+    "Musicas": {
+      "6549": {
+        "CANTOR": "365",
+        "COD": "6549",
+        "TITULO": "SÃO PAULO",
+        "__collections__": {},
+        "INICIO_LETRA": "Tem dias que eu digo não…."
+      },
+      "3755": {
+        "CANTOR": "14 Bis",
+        "COD": "3755",
+        "TITULO": "LINDA JUVENTUDE",
+        "__collections__": {},
+        "INICIO_LETRA": "Zabelê, zumbi, besouro vespa fabricando"
+      },
+      "7392": {
+        "CANTOR": "14 Bis",
+        "COD": "7392",
+        "TITULO": "NATURAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Penso em você no seu jeito de falar"
+      },
+      "6074": {
+        "CANTOR": "14 Bis",
+        "COD": "6074",
+        "TITULO": "PLANETA SONHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Aqui ninguém mais ficará depois do sol..."
+      },
+      "7693": {
+        "CANTOR": "14 Bis",
+        "COD": "7693",
+        "TITULO": "ROMANCE",
+        "__collections__": {},
+        "INICIO_LETRA": "Flores simples"
+      },
+      "6197": {
+        "CANTOR": "14 Bis",
+        "COD": "6197",
+        "TITULO": "TODO AZUL DO MAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Foi assim como ver o mar…"
+      },
+      "9556": {
+        "CANTOR": "14 Bis",
+        "COD": "9556",
+        "TITULO": "UMA VELHA CANÇÃO ROCK'N'ROLL",
+        "__collections__": {},
+        "INICIO_LETRA": "Olhe oh oh oh venha solte seu corpo n"
+      },
+      "15225": {
+        "CANTOR": "5 a Seco - Maria Gadú",
+        "COD": "15225",
+        "TITULO": "EM PAZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Caiu do céu se revelou anjo da noite e das manhãs"
+      },
+      "15450": {
+        "CANTOR": "A Banda Mais Bonita da Cidade",
+        "COD": "15450",
+        "TITULO": "CANÇÃO PRA NÃO VOLTAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Não volte pra casa meu amor que aqui"
+      },
+      "2748": {
+        "CANTOR": "A Banda Mais Bonita da Cidade",
+        "COD": "2748",
+        "TITULO": "ORAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu amor essa é a última oração"
+      },
+      "6402": {
+        "CANTOR": "A Cor Do Som",
+        "COD": "6402",
+        "TITULO": "ABRI A PORTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Abri a porta apareci…"
+      },
+      "7175": {
+        "CANTOR": "A Cor Do Som",
+        "COD": "7175",
+        "TITULO": "MENINO DEUS",
+        "__collections__": {},
+        "INICIO_LETRA": "Menino Deus um corpo azul-dourado"
+      },
+      "15200": {
+        "CANTOR": "A Cor do Som",
+        "COD": "15200",
+        "TITULO": "VIVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Viva a alegria e viva o prazer"
+      },
+      "7480": {
+        "CANTOR": "A Cor Do Som",
+        "COD": "7480",
+        "TITULO": "ZANZIBAR",
+        "__collections__": {},
+        "INICIO_LETRA": "No azul de Jezebel no céu de Calcutá"
+      },
+      "17247": {
+        "CANTOR": "A Cor do Som",
+        "COD": "17247",
+        "TITULO": "SEMENTE DO AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Sim é como a flor de água e ar luz e calor"
+      },
+      "1543": {
+        "CANTOR": "A Turma Do Balão Mágico",
+        "COD": "1543",
+        "TITULO": "BRUXINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô bruxinha bonitinha da vassoura de"
+      },
+      "9574": {
+        "CANTOR": "A Zorra",
+        "COD": "9574",
+        "TITULO": "A COR DA ESPERANÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sei"
+      },
+      "1804": {
+        "CANTOR": "Abelhudos",
+        "COD": "1804",
+        "TITULO": "AS CRIANÇAS E OS ANIMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Ê ô ê ô"
+      },
+      "15130": {
+        "CANTOR": "Abilio Farias",
+        "COD": "15130",
+        "TITULO": "O GENRO ODIADO",
+        "__collections__": {},
+        "INICIO_LETRA": "Desculpa mulher resolvi mil desculpas pedir"
+      },
+      "15049": {
+        "CANTOR": "Abílio Farias",
+        "COD": "15049",
+        "TITULO": "CORAÇÃO INDECISO",
+        "__collections__": {},
+        "INICIO_LETRA": "Um coração indeciso busquei no céu um"
+      },
+      "1790": {
+        "CANTOR": "Abílio Farias",
+        "COD": "1790",
+        "TITULO": "VOU FECHAR O CABARÉ",
+        "__collections__": {},
+        "INICIO_LETRA": "Esperei tanto"
+      },
+      "6355": {
+        "CANTOR": "Absyntho",
+        "COD": "6355",
+        "TITULO": "SÓ A LUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Lembro que ela disse meio triste..."
+      },
+      "1710": {
+        "CANTOR": "Adair Cardoso",
+        "COD": "1710",
+        "TITULO": "QUE SE DANE O MUNDO",
+        "__collections__": {},
+        "INICIO_LETRA": "E que se dane o mundo e que se dane"
+      },
+      "3726": {
+        "CANTOR": "Adalberto E Adriano",
+        "COD": "3726",
+        "TITULO": "SEPARAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Qual terá sido o motivo da nossa"
+      },
+      "6982": {
+        "CANTOR": "Adílson Ramos",
+        "COD": "6982",
+        "TITULO": "SONHAR CONTIGO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sonhar contigo por toda vida…"
+      },
+      "16322": {
+        "CANTOR": "Adoniran Barbosa",
+        "COD": "16322",
+        "TITULO": "APAGA O FOGO MANÉ",
+        "__collections__": {},
+        "INICIO_LETRA": "Inez saiu dizendo que ia comprar um pavio"
+      },
+      "7062": {
+        "CANTOR": "Adoniran Barbosa",
+        "COD": "7062",
+        "TITULO": "AS MARIPOSAS",
+        "__collections__": {},
+        "INICIO_LETRA": "As mariposa quando chega o frio"
+      },
+      "9466": {
+        "CANTOR": "Adriana",
+        "COD": "9466",
+        "TITULO": "I LOVE YOU BABY",
+        "__collections__": {},
+        "INICIO_LETRA": "Difícil é viver sem teu amor"
+      },
+      "1581": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "1581",
+        "TITULO": "CANÇÃO DE NOVELA",
+        "__collections__": {},
+        "INICIO_LETRA": "Toalha molhada"
+      },
+      "6126": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "6126",
+        "TITULO": "DEVOLVA-ME",
+        "__collections__": {},
+        "INICIO_LETRA": "Rasgue as minhas cartas..."
+      },
+      "16605": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "16605",
+        "TITULO": "ERA PRA SER",
+        "__collections__": {},
+        "INICIO_LETRA": "Era pra ser canção de amor"
+      },
+      "9450": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "9450",
+        "TITULO": "ESQUADROS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu ando pelo mundo prestando atenção"
+      },
+      "6822": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "6822",
+        "TITULO": "FICO ASSIM SEM VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Avião sem asa fogueira sem brasa"
+      },
+      "6573": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "6573",
+        "TITULO": "JUSTO AGORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu ouvi dizer que você assim…"
+      },
+      "4160": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "4160",
+        "TITULO": "MAIS FELIZ",
+        "__collections__": {},
+        "INICIO_LETRA": "O nosso amor não vai parar"
+      },
+      "1297": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "1297",
+        "TITULO": "MARESIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu amor me deixou levou minha identi"
+      },
+      "4161": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "4161",
+        "TITULO": "MENTIRAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Nada ficou no lugar"
+      },
+      "2798": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "2798",
+        "TITULO": "METADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu perco o chão"
+      },
+      "9846": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "9846",
+        "TITULO": "MULHER SEM RAZÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Saia dessa vida de migalhas"
+      },
+      "7648": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "7648",
+        "TITULO": "NAQUELA ESTAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Você entrou no trem"
+      },
+      "7661": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "7661",
+        "TITULO": "OUTRA VEZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Outra vez sem você outra vez sem amor"
+      },
+      "7668": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "7668",
+        "TITULO": "PELOS ARES",
+        "__collections__": {},
+        "INICIO_LETRA": "Não lhe peço nada"
+      },
+      "1119": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "1119",
+        "TITULO": "SEU PENSAMENTO",
+        "__collections__": {},
+        "INICIO_LETRA": "A uma hora dessas"
+      },
+      "4138": {
+        "CANTOR": "Adriana Calcanhoto",
+        "COD": "4138",
+        "TITULO": "VAMBORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Entre por essa porta agora"
+      },
+      "6121": {
+        "CANTOR": "Adryana E A Rapaziada",
+        "COD": "6121",
+        "TITULO": "AMOR PRA VALER",
+        "__collections__": {},
+        "INICIO_LETRA": "Já faz tanto tempo não consigo..."
+      },
+      "6294": {
+        "CANTOR": "Adryana E A Rapaziada",
+        "COD": "6294",
+        "TITULO": "EU TE AMO (AND I LOVE HER)",
+        "__collections__": {},
+        "INICIO_LETRA": "Foi tanto que eu te amei e não sabia…"
+      },
+      "6257": {
+        "CANTOR": "Adryana E A Rapaziada",
+        "COD": "6257",
+        "TITULO": "FIM DE NOITE",
+        "__collections__": {},
+        "INICIO_LETRA": "Você nunca vai me ver sofrer…"
+      },
+      "4458": {
+        "CANTOR": "Adryana E A Rapaziada",
+        "COD": "4458",
+        "TITULO": "SÓ FALTAVA VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Só faltava você..."
+      },
+      "6035": {
+        "CANTOR": "Adryana E A Rapaziada",
+        "COD": "6035",
+        "TITULO": "TUDO PASSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo na vida passa tudo na vida..."
+      },
+      "3789": {
+        "CANTOR": "Adryana Ribeiro",
+        "COD": "3789",
+        "TITULO": "E AGORA ?",
+        "__collections__": {},
+        "INICIO_LETRA": "E agora como é que eu vou ficar"
+      },
+      "1490": {
+        "CANTOR": "Adryana Ribeiro",
+        "COD": "1490",
+        "TITULO": "SAUDADE VEM",
+        "__collections__": {},
+        "INICIO_LETRA": "O que é que você foi fazer comigo"
+      },
+      "7621": {
+        "CANTOR": "Afrodisíaco",
+        "COD": "7621",
+        "TITULO": "JA É",
+        "__collections__": {},
+        "INICIO_LETRA": "Ôh ôh ôh ôh ôh ôh incendeia"
+      },
+      "1434": {
+        "CANTOR": "Afrodite se Quiser",
+        "COD": "1434",
+        "TITULO": "O QUE QUE ELA TEM QUE EU NÃO TENHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não adianta"
+      },
+      "7328": {
+        "CANTOR": "Agepê",
+        "COD": "7328",
+        "TITULO": "DE AMOR É BOM",
+        "__collections__": {},
+        "INICIO_LETRA": "Um lindo canto com um gosto de viver"
+      },
+      "7332": {
+        "CANTOR": "Agepê",
+        "COD": "7332",
+        "TITULO": "DE TODAS AS FORMAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Me dê a posse do teu corpo"
+      },
+      "6454": {
+        "CANTOR": "Agepê",
+        "COD": "6454",
+        "TITULO": "DEIXA EU TE AMAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Quero ir na fonte do teu ser…"
+      },
+      "1455": {
+        "CANTOR": "Agepê",
+        "COD": "1455",
+        "TITULO": "LÁ VEM O TREM",
+        "__collections__": {},
+        "INICIO_LETRA": "Lá vem o trem no passo que o vento vem"
+      },
+      "7381": {
+        "CANTOR": "Agepê",
+        "COD": "7381",
+        "TITULO": "ME LEVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo nasceu de brincadeira"
+      },
+      "6938": {
+        "CANTOR": "Agepê",
+        "COD": "6938",
+        "TITULO": "MENINA DE CABELOS LONGOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Ê ê ê... menina de cabelos longos…"
+      },
+      "3883": {
+        "CANTOR": "Agepê",
+        "COD": "3883",
+        "TITULO": "MOÇA CRIANÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "O seu andar tem jeito de moça"
+      },
+      "3848": {
+        "CANTOR": "Agepê",
+        "COD": "3848",
+        "TITULO": "MORO ONDE NÃO MORA NINGUÉM",
+        "__collections__": {},
+        "INICIO_LETRA": "Moro, onde não mora ninguém"
+      },
+      "1535": {
+        "CANTOR": "Agepê",
+        "COD": "1535",
+        "TITULO": "NINGUEM FAZ AMOR COMO VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Se eu perdi a hora não se zangue comi"
+      },
+      "15178": {
+        "CANTOR": "Aggeu Marques",
+        "COD": "15178",
+        "TITULO": "MÁQUINA DO TEMPO",
+        "__collections__": {},
+        "INICIO_LETRA": "Finjo não saber que o tempo passa logo"
+      },
+      "3737": {
+        "CANTOR": "Agnaldo Rayol",
+        "COD": "3737",
+        "TITULO": "A PRAIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Em plena praia no céu azul brilhava o sol"
+      },
+      "15521": {
+        "CANTOR": "Agnaldo Rayol",
+        "COD": "15521",
+        "TITULO": "ACORRENTADOS (ENCADENADOS)",
+        "__collections__": {},
+        "INICIO_LETRA": "Talvez fosse melhor se não voltasses"
+      },
+      "3739": {
+        "CANTOR": "Agnaldo Rayol",
+        "COD": "3739",
+        "TITULO": "AMIGOS PARA SEMPRE",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não tenho nada pra dizer"
+      },
+      "6362": {
+        "CANTOR": "Agnaldo Rayol",
+        "COD": "6362",
+        "TITULO": "AVE MARIA NO MORRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Barracão de zinco…"
+      },
+      "15853": {
+        "CANTOR": "Agnaldo Rayol",
+        "COD": "15853",
+        "TITULO": "NÃO VOLTO MAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Se você quiser saber amor vou cuidar de mim"
+      },
+      "6303": {
+        "CANTOR": "Agnaldo Rayol",
+        "COD": "6303",
+        "TITULO": "O PRINCÍPIO E O FIM",
+        "__collections__": {},
+        "INICIO_LETRA": "A minha vida em carinhos…"
+      },
+      "7282": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "7282",
+        "TITULO": "A CASA DE IRENE",
+        "__collections__": {},
+        "INICIO_LETRA": "Os dias tristes"
+      },
+      "7283": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "7283",
+        "TITULO": "A CASA DO SOL NASCENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "A casa dos meus sonhos é feita de ilu"
+      },
+      "7287": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "7287",
+        "TITULO": "A GALERIA DO AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Numa noite de insônia saí"
+      },
+      "6884": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "6884",
+        "TITULO": "A NOIVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ave Maria… Branca e radiante…"
+      },
+      "17146": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "17146",
+        "TITULO": "ETIQUETAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Vem me faz feliz por um momento apenas"
+      },
+      "7166": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "7166",
+        "TITULO": "LIVRE",
+        "__collections__": {},
+        "INICIO_LETRA": "Livre nasci como a brisa"
+      },
+      "1688": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "1688",
+        "TITULO": "MAMÃE ESTOU TÃO FELIZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Mamãe estou tão feliz porque voltei"
+      },
+      "4399": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "4399",
+        "TITULO": "MEU GRITO",
+        "__collections__": {},
+        "INICIO_LETRA": "Se eu demoro mais aqui eu vou morrer..."
+      },
+      "6947": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "6947",
+        "TITULO": "NÃO MEREÇO VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Não mereço você sei que vou me…"
+      },
+      "6959": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "6959",
+        "TITULO": "OS BRUTOS TAMBÉM AMAM",
+        "__collections__": {},
+        "INICIO_LETRA": "Você jamais vai entender o amor que…"
+      },
+      "6503": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "6503",
+        "TITULO": "OS VERDES CAMPOS DA MINHA TERRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Se algum dia à minha terra eu voltar…"
+      },
+      "4370": {
+        "CANTOR": "Agnaldo Timóteo",
+        "COD": "4370",
+        "TITULO": "QUEM É",
+        "__collections__": {},
+        "INICIO_LETRA": "Quem é que não sofre por alguém..."
+      },
+      "1150": {
+        "CANTOR": "Agnela",
+        "COD": "1150",
+        "TITULO": "PODIA SER",
+        "__collections__": {},
+        "INICIO_LETRA": "Não sei porque você não quis ligar"
+      },
+      "4221": {
+        "CANTOR": "Agostinho Dos Santos",
+        "COD": "4221",
+        "TITULO": "A FELICIDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Tristeza não tem fim felicidade"
+      },
+      "7301": {
+        "CANTOR": "Agostinho Dos Santos",
+        "COD": "7301",
+        "TITULO": "AQUELES OLHOS VERDES",
+        "__collections__": {},
+        "INICIO_LETRA": "Aqueles olhos verdes translúcidos ser"
+      },
+      "9695": {
+        "CANTOR": "Agostinho dos Santos",
+        "COD": "9695",
+        "TITULO": "MANHÃ DE CARNAVAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Manhã tão bonita manhã"
+      },
+      "15202": {
+        "CANTOR": "Agridoce (Pitty)",
+        "COD": "15202",
+        "TITULO": "130 ANOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Caro é transformar-se num arremendo de si próprio"
+      },
+      "2792": {
+        "CANTOR": "Agridoce (Pitty)",
+        "COD": "2792",
+        "TITULO": "DANÇANDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sei que lá no fundo"
+      },
+      "15621": {
+        "CANTOR": "Aguinaldo Timóteo",
+        "COD": "15621",
+        "TITULO": "QUEM SERÁ?",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor só se dá se amor se ganha também"
+      },
+      "3563": {
+        "CANTOR": "Akundum",
+        "COD": "3563",
+        "TITULO": "EMACONHADA",
+        "__collections__": {},
+        "INICIO_LETRA": "Kaya erva danada, kaya erva danada"
+      },
+      "16652": {
+        "CANTOR": "Alan e Aladim",
+        "COD": "16652",
+        "TITULO": "DOIS PASSARINHOS",
+        "__collections__": {},
+        "INICIO_LETRA": "No instante em que voce me beija"
+      },
+      "16394": {
+        "CANTOR": "Alan e Aladim",
+        "COD": "16394",
+        "TITULO": "LIGUEI PRA DIZER QUE TE AMO",
+        "__collections__": {},
+        "INICIO_LETRA": "Já é tarde é quase madrugada"
+      },
+      "15607": {
+        "CANTOR": "Alavontê",
+        "COD": "15607",
+        "TITULO": "Ê LÁ EM CASA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela atravessa a rua e vem falar comigo mas"
+      },
+      "16674": {
+        "CANTOR": "Alceu Valenca",
+        "COD": "16674",
+        "TITULO": "EU VOU FAZER VOCE VOAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu vou fazer voce voar"
+      },
+      "3903": {
+        "CANTOR": "Alceu Valença",
+        "COD": "3903",
+        "TITULO": "ANUNCIAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Na bruma leve das paixões"
+      },
+      "6452": {
+        "CANTOR": "Alceu Valença",
+        "COD": "6452",
+        "TITULO": "COMO DOIS ANIMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Uma moça bonita de olhar agateado…"
+      },
+      "4071": {
+        "CANTOR": "Alceu Valença",
+        "COD": "4071",
+        "TITULO": "CORAÇÃO BOBO",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu coração tá batendo"
+      },
+      "15223": {
+        "CANTOR": "Alceu Valença",
+        "COD": "15223",
+        "TITULO": "DONA DE 7 COLINAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela é dona de sete colinas debruçadas na beira do mar"
+      },
+      "16854": {
+        "CANTOR": "Alceu Valença",
+        "COD": "16854",
+        "TITULO": "GIRASSOL",
+        "__collections__": {},
+        "INICIO_LETRA": "Mar e sol gira gira gira...girassol"
+      },
+      "3880": {
+        "CANTOR": "Alceu Valença",
+        "COD": "3880",
+        "TITULO": "LA BELLE DE JOUR",
+        "__collections__": {},
+        "INICIO_LETRA": "Ah! eh! ah! eh! La belle de jour"
+      },
+      "1120": {
+        "CANTOR": "Alceu Valença",
+        "COD": "1120",
+        "TITULO": "SOLIDÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "A solidão é fera a solidão devora"
+      },
+      "3277": {
+        "CANTOR": "Alceu Valença",
+        "COD": "3277",
+        "TITULO": "TROPICANA",
+        "__collections__": {},
+        "INICIO_LETRA": "Da manga rosa quero o gosto e o sumo"
+      },
+      "6521": {
+        "CANTOR": "Alcione",
+        "COD": "6521",
+        "TITULO": "A LOBA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sou doce dengosa polida…"
+      },
+      "15022": {
+        "CANTOR": "Alcione",
+        "COD": "15022",
+        "TITULO": "A PAIXÃO TEM MEMÓRIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Lá vem você de novo procurar por mim"
+      },
+      "6246": {
+        "CANTOR": "Alcione",
+        "COD": "6246",
+        "TITULO": "ALÉM DA CAMA",
+        "__collections__": {},
+        "INICIO_LETRA": "De amor eu não morro…"
+      },
+      "16633": {
+        "CANTOR": "Alcione",
+        "COD": "16633",
+        "TITULO": "AMOR SURREAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Se ajoelha e me pede perdão"
+      },
+      "3060": {
+        "CANTOR": "Alcione",
+        "COD": "3060",
+        "TITULO": "DELÍRIO DE AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Você acaba dando um jeito"
+      },
+      "1165": {
+        "CANTOR": "Alcione",
+        "COD": "1165",
+        "TITULO": "EU VOU PRA LAPA",
+        "__collections__": {},
+        "INICIO_LETRA": "É ela a dama da noite"
+      },
+      "1604": {
+        "CANTOR": "Alcione",
+        "COD": "1604",
+        "TITULO": "FAZ UMA LOUCURA POR MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Faz uma loucura por mim"
+      },
+      "1979": {
+        "CANTOR": "Alcione",
+        "COD": "1979",
+        "TITULO": "GAROTO MAROTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Você faz de conta que quer meu perdão"
+      },
+      "4196": {
+        "CANTOR": "Alcione",
+        "COD": "4196",
+        "TITULO": "GOSTOSO VENENO",
+        "__collections__": {},
+        "INICIO_LETRA": "Esse amor me envenena"
+      },
+      "2797": {
+        "CANTOR": "Alcione",
+        "COD": "2797",
+        "TITULO": "MELHORES MOMENTOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Como posso explicar para o meu"
+      },
+      "9282": {
+        "CANTOR": "Alcione",
+        "COD": "9282",
+        "TITULO": "MENINO SEM JUÍZO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sabe meu menino sem juízo"
+      },
+      "6940": {
+        "CANTOR": "Alcione",
+        "COD": "6940",
+        "TITULO": "MEU ÉBANO",
+        "__collections__": {},
+        "INICIO_LETRA": "É você e um negão de tirar o chapéu…"
+      },
+      "9286": {
+        "CANTOR": "Alcione",
+        "COD": "9286",
+        "TITULO": "MEU VÍCIO É VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu cigarro é o perfume do mato"
+      },
+      "16788": {
+        "CANTOR": "Alcione",
+        "COD": "16788",
+        "TITULO": "MULHER IDEAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sou aquilo que sou"
+      },
+      "7186": {
+        "CANTOR": "Alcione",
+        "COD": "7186",
+        "TITULO": "NA HORA DA RAIVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Na hora da raiva eu lhe disse tudo"
+      },
+      "2694": {
+        "CANTOR": "Alcione",
+        "COD": "2694",
+        "TITULO": "NÃO CHORE, NÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Pra quê chorar a vida é mesmo assim"
+      },
+      "3169": {
+        "CANTOR": "Alcione",
+        "COD": "3169",
+        "TITULO": "NÃO DEIXE O SAMBA MORRER",
+        "__collections__": {},
+        "INICIO_LETRA": "Não deixe o samba morrer"
+      },
+      "16274": {
+        "CANTOR": "Alcione",
+        "COD": "16274",
+        "TITULO": "NEM MORTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu só fico em teus braços porque não tenho"
+      },
+      "6626": {
+        "CANTOR": "Alcione",
+        "COD": "6626",
+        "TITULO": "O MUNDO É DE NÓS DOIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Esse nosso amor é a perfeição…"
+      },
+      "1600": {
+        "CANTOR": "Alcione",
+        "COD": "1600",
+        "TITULO": "O QUE EU FAÇO AMANHÃ?",
+        "__collections__": {},
+        "INICIO_LETRA": "De repente você vem dizer"
+      },
+      "7201": {
+        "CANTOR": "Alcione",
+        "COD": "7201",
+        "TITULO": "O SURDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Amigo que ironia desta vida"
+      },
+      "9316": {
+        "CANTOR": "Alcione",
+        "COD": "9316",
+        "TITULO": "PIOR É QUE EU GOSTO",
+        "__collections__": {},
+        "INICIO_LETRA": "De repente é mais uma vez"
+      },
+      "1795": {
+        "CANTOR": "Alcione",
+        "COD": "1795",
+        "TITULO": "QUALQUER DIA DESSES",
+        "__collections__": {},
+        "INICIO_LETRA": "Qualquer dia desses"
+      },
+      "1624": {
+        "CANTOR": "Alcione",
+        "COD": "1624",
+        "TITULO": "QUEM É VOCÊ?",
+        "__collections__": {},
+        "INICIO_LETRA": "Quem é você"
+      },
+      "7232": {
+        "CANTOR": "Alcione",
+        "COD": "7232",
+        "TITULO": "RIO ANTIGO",
+        "__collections__": {},
+        "INICIO_LETRA": "Quero o bate-papo na esquina"
+      },
+      "9337": {
+        "CANTOR": "Alcione",
+        "COD": "9337",
+        "TITULO": "SE NÃO É AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Se não é amor"
+      },
+      "3263": {
+        "CANTOR": "Alcione",
+        "COD": "3263",
+        "TITULO": "SUFOCO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não sei se vou aturar esses seus abusos"
+      },
+      "3270": {
+        "CANTOR": "Alcione",
+        "COD": "3270",
+        "TITULO": "TÔ COM SAUDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Tô com saudade amor já não suporto"
+      },
+      "17440": {
+        "CANTOR": "Alcione",
+        "COD": "17440",
+        "TITULO": "UM SER DE LUZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Um dia um ser de luz nasceu numa cidade do"
+      },
+      "6759": {
+        "CANTOR": "Alcione",
+        "COD": "6759",
+        "TITULO": "VOCÊ ME VIRA A CABEÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Você me vira a cabeça me tira..."
+      },
+      "15739": {
+        "CANTOR": "Alcione - Gonzaguinha",
+        "COD": "15739",
+        "TITULO": "MESA DE BAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Mesa de bar é lugar pra todo mundo que é"
+      },
+      "4079": {
+        "CANTOR": "Alcione E Alexandre Pires",
+        "COD": "4079",
+        "TITULO": "ESTRANHA LOUCURA",
+        "__collections__": {},
+        "INICIO_LETRA": "Minha estranha loucura"
+      },
+      "4105": {
+        "CANTOR": "Alejandro Sanz",
+        "COD": "4105",
+        "TITULO": "CORAZÓN PARTÍO",
+        "__collections__": {},
+        "INICIO_LETRA": "Tiritas pá este corazón partío"
+      },
+      "17174": {
+        "CANTOR": "Alemão do Forró",
+        "COD": "17174",
+        "TITULO": "FICA AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Fica amor por favor não diz já vou"
+      },
+      "16235": {
+        "CANTOR": "Alex e Ronaldo",
+        "COD": "16235",
+        "TITULO": "SEXTA FEIRA SUA LINDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Fim de semana começou"
+      },
+      "9569": {
+        "CANTOR": "Alexandre Peixe",
+        "COD": "9569",
+        "TITULO": "VOCÊ VAI PIRAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Você vai pirar vai enlouquecer"
+      },
+      "1077": {
+        "CANTOR": "Alexandre Peixe",
+        "COD": "1077",
+        "TITULO": "EU SOU MAIS VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô ô... ô ô ô ô"
+      },
+      "9575": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "9575",
+        "TITULO": "A DEUS EU PEÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "Que a menina dos meus olhos"
+      },
+      "6443": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6443",
+        "TITULO": "A MUSA DAS MINHAS CANÇÕES",
+        "__collections__": {},
+        "INICIO_LETRA": "No palco de um pequeno bar…"
+      },
+      "6649": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6649",
+        "TITULO": "BUM, BUM, BUM",
+        "__collections__": {},
+        "INICIO_LETRA": "Amiga olha só como mudou a vida..."
+      },
+      "1210": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "1210",
+        "TITULO": "CIGANO",
+        "__collections__": {},
+        "INICIO_LETRA": "Era lindo o nosso amor"
+      },
+      "6816": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6816",
+        "TITULO": "COISA DO DESTINO",
+        "__collections__": {},
+        "INICIO_LETRA": "Isso é coisa do destino eu sofri"
+      },
+      "6251": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6251",
+        "TITULO": "É POR AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "A noite de lua cheia é quase…"
+      },
+      "1786": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "1786",
+        "TITULO": "ERRO MEU",
+        "__collections__": {},
+        "INICIO_LETRA": "Se o amor bater deixa entrar"
+      },
+      "7603": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "7603",
+        "TITULO": "EU TIRO A SUA ROUPA",
+        "__collections__": {},
+        "INICIO_LETRA": "Às vezes em silêncios a emoção me fa"
+      },
+      "1558": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "1558",
+        "TITULO": "LEVE TUDO COM VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Como pude mentir o meu bem eu traí"
+      },
+      "1532": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "1532",
+        "TITULO": "MULHER DAS ESTRELAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela canta demais"
+      },
+      "6302": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6302",
+        "TITULO": "NECESSIDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Beijar tua boca é a minha aventura…"
+      },
+      "15834": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "15834",
+        "TITULO": "QUEM É VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu descobri quem você é posso estar"
+      },
+      "7696": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "7696",
+        "TITULO": "SE ELA ME AMASSE",
+        "__collections__": {},
+        "INICIO_LETRA": "Se ela me amasse"
+      },
+      "7697": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "7697",
+        "TITULO": "SEM TEU AMOR NADA É IGUAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Me pego remexendo em suas coisas"
+      },
+      "2877": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "2877",
+        "TITULO": "SISSI",
+        "__collections__": {},
+        "INICIO_LETRA": "Laiá laiá laiá... Ai que dede que dede"
+      },
+      "1472": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "1472",
+        "TITULO": "SÓ POR UM MOMENTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha aqui, não fique esperando"
+      },
+      "6988": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6988",
+        "TITULO": "TIRA ELA DE MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Tira a lembrança que ela deixou…"
+      },
+      "6198": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6198",
+        "TITULO": "USTED SE ME LLEVÓ LA VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Usted se me llevó la vida…"
+      },
+      "6640": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "6640",
+        "TITULO": "VEM ME AMAR (AMAME)",
+        "__collections__": {},
+        "INICIO_LETRA": "Vem aqui doce amor…"
+      },
+      "1073": {
+        "CANTOR": "Alexandre Pires",
+        "COD": "1073",
+        "TITULO": "DESSA VEZ EU ME RENDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Dizem que amor não mata mas judia da"
+      },
+      "17047": {
+        "CANTOR": "Alexandre Pires - Ivete Sangalo",
+        "COD": "17047",
+        "TITULO": "ESTRELA CADENTE (HUNTING HIGH AND LOW)",
+        "__collections__": {},
+        "INICIO_LETRA": "Dia noite e céu"
+      },
+      "15408": {
+        "CANTOR": "Alexandre Pires - Seu Jorge",
+        "COD": "15408",
+        "TITULO": "EU SOU O SAMBA",
+        "__collections__": {},
+        "INICIO_LETRA": "Coisa linda muito prazer hoje você vai"
+      },
+      "1106": {
+        "CANTOR": "Alexandre Pires e Daniel",
+        "COD": "1106",
+        "TITULO": "CHEGUEI TARDE DEMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Não faz não quer não vem não fala nada"
+      },
+      "6764": {
+        "CANTOR": "Alexandre Pires E Fat Family",
+        "COD": "6764",
+        "TITULO": "AO SENTIR O AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "A sensação de ver você chegar..."
+      },
+      "9655": {
+        "CANTOR": "Alexandre Pires e Revelação",
+        "COD": "9655",
+        "TITULO": "DELÍRIOS DE AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Me lembro o dia que cheguei"
+      },
+      "15446": {
+        "CANTOR": "Aliados",
+        "COD": "15446",
+        "TITULO": "ÁGUAS PASSADAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixa rolar deixa fluir"
+      },
+      "15455": {
+        "CANTOR": "Aliados",
+        "COD": "15455",
+        "TITULO": "ESPERANÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Enquanto ela estiver aqui"
+      },
+      "1153": {
+        "CANTOR": "Aliados",
+        "COD": "1153",
+        "TITULO": "SORRINDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Ontem um sonho acabou"
+      },
+      "15488": {
+        "CANTOR": "Aline Barros",
+        "COD": "15488",
+        "TITULO": "DEUS EXTRAORDINÁRIO",
+        "__collections__": {},
+        "INICIO_LETRA": "Em toda história não se ouviu falar de um"
+      },
+      "9527": {
+        "CANTOR": "Aline Barros",
+        "COD": "9527",
+        "TITULO": "RECOMEÇAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Pai"
+      },
+      "1809": {
+        "CANTOR": "Aline Barros",
+        "COD": "1809",
+        "TITULO": "RESSUSCITA-ME",
+        "__collections__": {},
+        "INICIO_LETRA": "Mestre eu preciso de um milagre"
+      },
+      "1878": {
+        "CANTOR": "Aline Barros",
+        "COD": "1878",
+        "TITULO": "SONDA-ME, USA-ME",
+        "__collections__": {},
+        "INICIO_LETRA": "Sonda-me Senhor e me conhece"
+      },
+      "2867": {
+        "CANTOR": "Aline Calixto",
+        "COD": "2867",
+        "TITULO": "FLOR MORENA",
+        "__collections__": {},
+        "INICIO_LETRA": "Flor morena que manda no meu coração"
+      },
+      "15650": {
+        "CANTOR": "Alinne Rosa",
+        "COD": "15650",
+        "TITULO": "COMPLICAMOS DEMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Se eu fechar meus olhos posso te ver"
+      },
+      "1388": {
+        "CANTOR": "Alisson e Ryan",
+        "COD": "1388",
+        "TITULO": "NÃO SOU SEU BRINQUEDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Pára dá um tempo vê se larga do meu"
+      },
+      "17474": {
+        "CANTOR": "Almir Guineto",
+        "COD": "17474",
+        "TITULO": "CAXAMBU",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha vamos na dança do Caxambu saravá jongo"
+      },
+      "16189": {
+        "CANTOR": "Almir Guinéto",
+        "COD": "16189",
+        "TITULO": "MEL NA BOCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ohhh quanta mentira suportei"
+      },
+      "3877": {
+        "CANTOR": "Almir Rogério",
+        "COD": "3877",
+        "TITULO": "FUSCÃO PRETO",
+        "__collections__": {},
+        "INICIO_LETRA": "Me disseram que ela foi vista com"
+      },
+      "1508": {
+        "CANTOR": "Almir Rogério",
+        "COD": "1508",
+        "TITULO": "MOTOQUEIRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo certo para o nosso casamento"
+      },
+      "17462": {
+        "CANTOR": "Almir Sater",
+        "COD": "17462",
+        "TITULO": "BOIADA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ele foi levando boi um dia ele se foi no rastro da"
+      },
+      "1425": {
+        "CANTOR": "Almir Sater",
+        "COD": "1425",
+        "TITULO": "HORA DO CLARÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Ana Raio e Zé Trovão diz a sabedoria"
+      },
+      "9509": {
+        "CANTOR": "Almir Sater",
+        "COD": "9509",
+        "TITULO": "PEÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Diga você me conhece eu já fui boiad"
+      },
+      "2939": {
+        "CANTOR": "Almir Sater",
+        "COD": "2939",
+        "TITULO": "TRAVESSIA DO ARAGUAIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Naquele estradão deserto uma boiada"
+      },
+      "4379": {
+        "CANTOR": "Almir Sater",
+        "COD": "4379",
+        "TITULO": "UM VIOLEIRO TOCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando uma estrela cai na escuridão da"
+      },
+      "9559": {
+        "CANTOR": "Almir Sater",
+        "COD": "9559",
+        "TITULO": "VARANDAS",
+        "__collections__": {},
+        "INICIO_LETRA": "A noite é um mistério que eu finjo co"
+      },
+      "17306": {
+        "CANTOR": "Alok - MC Don Juan - DJ. GBR",
+        "COD": "17306",
+        "TITULO": "LIBERDADE (QUANDO O GRAVE BATE FORTE)",
+        "__collections__": {},
+        "INICIO_LETRA": "Faz uns dias que ela não sai agora que terminou"
+      },
+      "17055": {
+        "CANTOR": "Altay Veloso",
+        "COD": "17055",
+        "TITULO": "ENTRA E SAI DE AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Baby a emoção me trouxe aqui"
+      },
+      "7045": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "7045",
+        "TITULO": "A PRETENDIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Reclamas que te faltam meus carinhos"
+      },
+      "4465": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "4465",
+        "TITULO": "BALADA TRISTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Balada triste que me faz lembrar alguém..."
+      },
+      "7072": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "7072",
+        "TITULO": "BLOCO DA SOLIDÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Angústia solidão um triste adeus"
+      },
+      "4067": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "4067",
+        "TITULO": "BRIGAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Veja só que tolice nós dois"
+      },
+      "16090": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "16090",
+        "TITULO": "COMO DESEJO TEU AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Como desejo teu amor quando me lembro"
+      },
+      "6608": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "6608",
+        "TITULO": "CONTIGO APRENDI",
+        "__collections__": {},
+        "INICIO_LETRA": "Contigo aprendi…"
+      },
+      "3872": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "3872",
+        "TITULO": "ESTÃO VOLTANDO AS FLORES",
+        "__collections__": {},
+        "INICIO_LETRA": "Vê...estão voltando as flores vê"
+      },
+      "7128": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "7128",
+        "TITULO": "EU SONHEI QUE TU ESTAVAS TÃO LINDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sonhei que tu estavas tão linda"
+      },
+      "6496": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "6496",
+        "TITULO": "MARIA HELENA",
+        "__collections__": {},
+        "INICIO_LETRA": "Maria Helena és tu a minha inspiração…"
+      },
+      "6422": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "6422",
+        "TITULO": "MEU VELHO (MI VIEJO)",
+        "__collections__": {},
+        "INICIO_LETRA": "É um bom tipo meu velho e anda só…"
+      },
+      "7181": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "7181",
+        "TITULO": "MODINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Olho a rosa na janela sonho um sonho"
+      },
+      "1610": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "1610",
+        "TITULO": "MURMURA AO MAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Murmura o mar a derramar uma canção"
+      },
+      "3926": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "3926",
+        "TITULO": "O TROVADOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Sonhei que eu era um dia um"
+      },
+      "4130": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "4130",
+        "TITULO": "QUE QUERES TU DE MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Que queres tú de mim?"
+      },
+      "3540": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "3540",
+        "TITULO": "SENTIMENTAL DEMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Sentimental eu sou, eu sou demais"
+      },
+      "6277": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "6277",
+        "TITULO": "SOMOS IGUAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Acabei de saber que você riu de mim…"
+      },
+      "9349": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "9349",
+        "TITULO": "TUDO DE MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "De que é feito afinal esse seu coraç"
+      },
+      "7268": {
+        "CANTOR": "Altemar Dutra",
+        "COD": "7268",
+        "TITULO": "VAI ANDORINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ao ver passar no céu as andorinhas"
+      },
+      "1800": {
+        "CANTOR": "Altemar Dutra - Martha Mendonça",
+        "COD": "1800",
+        "TITULO": "VELHA COMPANHEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não tenho ódio dentro do meu peito"
+      },
+      "1505": {
+        "CANTOR": "Álvaro e Daniel",
+        "COD": "1505",
+        "TITULO": "AQUI É O SEU LUGAR",
+        "__collections__": {},
+        "INICIO_LETRA": "É pra você"
+      },
+      "4060": {
+        "CANTOR": "Amado Batista",
+        "COD": "4060",
+        "TITULO": "24 HORAS NO AR",
+        "__collections__": {},
+        "INICIO_LETRA": "Pare de pensar em besteira"
+      },
+      "15562": {
+        "CANTOR": "Amado Batista",
+        "COD": "15562",
+        "TITULO": "AGORA OU NUNCA MAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Sou um amor passageiro que está"
+      },
+      "9604": {
+        "CANTOR": "Amado Batista",
+        "COD": "9604",
+        "TITULO": "AMIGO FORTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Como é linda a vida quando vivida"
+      },
+      "1683": {
+        "CANTOR": "Amado Batista",
+        "COD": "1683",
+        "TITULO": "AMOR MEU LOUCO AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Além do teu olhar o que mais pode"
+      },
+      "9632": {
+        "CANTOR": "Amado Batista",
+        "COD": "9632",
+        "TITULO": "CARTA SOBRE A MESA",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixe-me renascer viver e crescer"
+      },
+      "9417": {
+        "CANTOR": "Amado Batista",
+        "COD": "9417",
+        "TITULO": "CHUVA DE VENTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Vento que venta lá fora leva esta sau"
+      },
+      "4230": {
+        "CANTOR": "Amado Batista",
+        "COD": "4230",
+        "TITULO": "COMO NA PRIMEIRA VEZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando o amor nos acontece"
+      },
+      "7583": {
+        "CANTOR": "Amado Batista",
+        "COD": "7583",
+        "TITULO": "DESISTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Rosto que beijei corpo que abracei"
+      },
+      "16784": {
+        "CANTOR": "Amado Batista",
+        "COD": "16784",
+        "TITULO": "DESLIGA A LUZ E O TELEFONE",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha amor eu vim de longe pra te ver"
+      },
+      "9677": {
+        "CANTOR": "Amado Batista",
+        "COD": "9677",
+        "TITULO": "EU QUERO É NAMORAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu pensei"
+      },
+      "7129": {
+        "CANTOR": "Amado Batista",
+        "COD": "7129",
+        "TITULO": "EU SOU SEU FÃ",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você me quiser quando resolver"
+      },
+      "16515": {
+        "CANTOR": "Amado Batista",
+        "COD": "16515",
+        "TITULO": "FOLHA SECA",
+        "__collections__": {},
+        "INICIO_LETRA": "Fazia um dia bonito quando ela chegou"
+      },
+      "15412": {
+        "CANTOR": "Amado Batista",
+        "COD": "15412",
+        "TITULO": "IMPÉRIO DOS SENTIDOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu venho num sonho bonito das cores"
+      },
+      "16706": {
+        "CANTOR": "Amado Batista",
+        "COD": "16706",
+        "TITULO": "MENININHA MEU AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não consigo esquecer de você"
+      },
+      "6941": {
+        "CANTOR": "Amado Batista",
+        "COD": "6941",
+        "TITULO": "MEU EX-AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu tive um amor amor tão bonito…"
+      },
+      "2811": {
+        "CANTOR": "Amado Batista",
+        "COD": "2811",
+        "TITULO": "MUITOS COMPROMISSOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Quanto tempo você vai chorar por mim"
+      },
+      "1921": {
+        "CANTOR": "Amado Batista",
+        "COD": "1921",
+        "TITULO": "NÃO QUERO FALAR COM ELA",
+        "__collections__": {},
+        "INICIO_LETRA": "Se ela ligar outra vez"
+      },
+      "6625": {
+        "CANTOR": "Amado Batista",
+        "COD": "6625",
+        "TITULO": "O FRUTO DO NOSSO AMOR (AMOR PERFEITO)",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor perfeito existia entre nós dois…"
+      },
+      "16867": {
+        "CANTOR": "Amado Batista",
+        "COD": "16867",
+        "TITULO": "O JULGAMENTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sempre quando eu voltava para o lar"
+      },
+      "16141": {
+        "CANTOR": "Amado Batista",
+        "COD": "16141",
+        "TITULO": "O NEGÓCIO DA CHINA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu vou levar você pra comer no meu apê"
+      },
+      "4327": {
+        "CANTOR": "Amado Batista",
+        "COD": "4327",
+        "TITULO": "O POBRETÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Que pena que eu não posso ser..."
+      },
+      "7656": {
+        "CANTOR": "Amado Batista",
+        "COD": "7656",
+        "TITULO": "O PRÍNCIPE",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não esqueço"
+      },
+      "3856": {
+        "CANTOR": "Amado Batista",
+        "COD": "3856",
+        "TITULO": "PRINCESA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ao te ver pela primeira vez"
+      },
+      "15268": {
+        "CANTOR": "Amado Batista",
+        "COD": "15268",
+        "TITULO": "QUEM É VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Quem é você que me escreve cartas de amor"
+      },
+      "6975": {
+        "CANTOR": "Amado Batista",
+        "COD": "6975",
+        "TITULO": "RECLAMANDO SUA AUSÊNCIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sei Foi o amor que fez…"
+      },
+      "6353": {
+        "CANTOR": "Amado Batista",
+        "COD": "6353",
+        "TITULO": "SECRETÁRIA (ASSÉDIO SEXUAL)",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela chega tão meiga e tão bela..."
+      },
+      "16630": {
+        "CANTOR": "Amado Batista",
+        "COD": "16630",
+        "TITULO": "SERENATA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ah como eu queria"
+      },
+      "9880": {
+        "CANTOR": "Amado Batista",
+        "COD": "9880",
+        "TITULO": "SERESTEIRO DAS NOITES",
+        "__collections__": {},
+        "INICIO_LETRA": "Existem momentos na vida que lembramo"
+      },
+      "15633": {
+        "CANTOR": "Amado Batista",
+        "COD": "15633",
+        "TITULO": "TRAVESSEIRO AZUL",
+        "__collections__": {},
+        "INICIO_LETRA": "Tanto faz se é noite ou dia uma luz me"
+      },
+      "17240": {
+        "CANTOR": "Amado Batista",
+        "COD": "17240",
+        "TITULO": "TUM TUM DE SAUDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Às vezes a minha cabeça parece faltar parafuso"
+      },
+      "9355": {
+        "CANTOR": "Amado Batista",
+        "COD": "9355",
+        "TITULO": "VÁ EMBORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Vá embora do meu mundo"
+      },
+      "16993": {
+        "CANTOR": "Amado Batista",
+        "COD": "16993",
+        "TITULO": "VEM MORENA",
+        "__collections__": {},
+        "INICIO_LETRA": "Vem morena vem vem amar"
+      },
+      "17140": {
+        "CANTOR": "Amado Batista - Elias Wagner",
+        "COD": "17140",
+        "TITULO": "SOU IGUALZINHO A VOCE",
+        "__collections__": {},
+        "INICIO_LETRA": "Todo dia a mesma coisa tudo era sempre igual"
+      },
+      "17061": {
+        "CANTOR": "Amado Batista - Reginaldo Sodré",
+        "COD": "17061",
+        "TITULO": "A ÚNICA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sempre quando eu chego em casa"
+      },
+      "16347": {
+        "CANTOR": "Amado Batista Amado",
+        "COD": "16347",
+        "TITULO": "CHANCE",
+        "__collections__": {},
+        "INICIO_LETRA": "Quero te dizer baixinho com todo carinho"
+      },
+      "16680": {
+        "CANTOR": "Amanda Magalhaes - Seu Jorge",
+        "COD": "16680",
+        "TITULO": "SAIBA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amar voce e tao facil"
+      },
+      "3876": {
+        "CANTOR": "Amelinha",
+        "COD": "3876",
+        "TITULO": "FOI DEUS QUEM FEZ VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Foi Deus que fez o céu o rancho das"
+      },
+      "3796": {
+        "CANTOR": "Amelinha",
+        "COD": "3796",
+        "TITULO": "FREVO MULHER",
+        "__collections__": {},
+        "INICIO_LETRA": "Quantos aqui ouvem, os olhos"
+      },
+      "9288": {
+        "CANTOR": "Amelinha",
+        "COD": "9288",
+        "TITULO": "MULHER NOVA, BONITA E CARINHOSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Numa luta de gregos e troianos"
+      },
+      "1552": {
+        "CANTOR": "Ana Canãs",
+        "COD": "1552",
+        "TITULO": "ESCONDERIJO",
+        "__collections__": {},
+        "INICIO_LETRA": "Procuro a solidão como o ar procura"
+      },
+      "1981": {
+        "CANTOR": "Ana Cañas",
+        "COD": "1981",
+        "TITULO": "A ANA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ahn ahn ahn ahn"
+      },
+      "15272": {
+        "CANTOR": "Ana Cañas",
+        "COD": "15272",
+        "TITULO": "SERÁ QUE VOCÊ ME AMA?",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo do avesso tudo certo tudo no começo"
+      },
+      "15885": {
+        "CANTOR": "Ana Cañas",
+        "COD": "15885",
+        "TITULO": "TE VER FELIZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Na nara na... Eu não tenho uma letra"
+      },
+      "1481": {
+        "CANTOR": "Ana Carolina",
+        "COD": "1481",
+        "TITULO": "10 MINUTOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Por que você não atende as minhas"
+      },
+      "7891": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7891",
+        "TITULO": "A CANÇÃO TOCOU NA HORA ERRADA",
+        "__collections__": {},
+        "INICIO_LETRA": "A canção tocou na hora errada"
+      },
+      "9393": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9393",
+        "TITULO": "AQUI",
+        "__collections__": {},
+        "INICIO_LETRA": "Aqui"
+      },
+      "7921": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7921",
+        "TITULO": "CARVÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Surgiu como um clarão"
+      },
+      "16025": {
+        "CANTOR": "Ana Carolina",
+        "COD": "16025",
+        "TITULO": "COISAS",
+        "__collections__": {},
+        "INICIO_LETRA": "O meu corpo me deixa confusa quando o seu olhar"
+      },
+      "15288": {
+        "CANTOR": "Ana Carolina",
+        "COD": "15288",
+        "TITULO": "COMBUSTÍVEL",
+        "__collections__": {},
+        "INICIO_LETRA": "Fiz de você meu combustível meu"
+      },
+      "7932": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7932",
+        "TITULO": "CONFESSO",
+        "__collections__": {},
+        "INICIO_LETRA": "Confesso acordei achando tudo indife"
+      },
+      "1654": {
+        "CANTOR": "Ana Carolina",
+        "COD": "1654",
+        "TITULO": "DOIS BICUDOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando te vi andava tão desprevenido"
+      },
+      "9443": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9443",
+        "TITULO": "É MÁGOA",
+        "__collections__": {},
+        "INICIO_LETRA": "É mágoa"
+      },
+      "6413": {
+        "CANTOR": "Ana Carolina",
+        "COD": "6413",
+        "TITULO": "ELA É BAMBA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela é bamba ela é bamba ela é bamba…"
+      },
+      "7348": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7348",
+        "TITULO": "ELEVADOR (LIVRO DE ESQUECIMENTO)",
+        "__collections__": {},
+        "INICIO_LETRA": "Pra que te espero de braços abertos"
+      },
+      "6694": {
+        "CANTOR": "Ana Carolina",
+        "COD": "6694",
+        "TITULO": "ENCOSTAR NA TUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu quero te roubar pra mim..."
+      },
+      "9676": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9676",
+        "TITULO": "EU QUE NÃO SEI QUASE NADA DO MAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Garimpeira da beleza"
+      },
+      "4316": {
+        "CANTOR": "Ana Carolina",
+        "COD": "4316",
+        "TITULO": "GARGANTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Minha garganta estranha quando não te"
+      },
+      "7975": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7975",
+        "TITULO": "HOJE EU TÔ SOZINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu tô sozinha e não aceito cons"
+      },
+      "15701": {
+        "CANTOR": "Ana Carolina",
+        "COD": "15701",
+        "TITULO": "LIBIDO",
+        "__collections__": {},
+        "INICIO_LETRA": "No anúncio da revista ou na obra de arte"
+      },
+      "7629": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7629",
+        "TITULO": "MAIS QUE ISSO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não vou gostar de você"
+      },
+      "9488": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9488",
+        "TITULO": "NADA PRA MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não vim aqui pra entender ou expli"
+      },
+      "16544": {
+        "CANTOR": "Ana Carolina",
+        "COD": "16544",
+        "TITULO": "NÃO TEM NO MAPA",
+        "__collections__": {},
+        "INICIO_LETRA": "Às vezes eu me chamo por aí"
+      },
+      "6827": {
+        "CANTOR": "Ana Carolina",
+        "COD": "6827",
+        "TITULO": "NUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Olho a cidade ao redor e nada me"
+      },
+      "6870": {
+        "CANTOR": "Ana Carolina",
+        "COD": "6870",
+        "TITULO": "PRA RUA ME LEVAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Não vou viver..."
+      },
+      "16886": {
+        "CANTOR": "Ana Carolina",
+        "COD": "16886",
+        "TITULO": "PRA TERMINAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Pra começar Dizer que o amor"
+      },
+      "2739": {
+        "CANTOR": "Ana Carolina",
+        "COD": "2739",
+        "TITULO": "PROBLEMAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Qualquer distância entre nós"
+      },
+      "9521": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9521",
+        "TITULO": "QUE SE DANEM OS NÓS",
+        "__collections__": {},
+        "INICIO_LETRA": "Vim gastando meus sapatos"
+      },
+      "6109": {
+        "CANTOR": "Ana Carolina",
+        "COD": "6109",
+        "TITULO": "QUEM DE NÓS DOIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu e você não é assim tão complicado..."
+      },
+      "7694": {
+        "CANTOR": "Ana Carolina",
+        "COD": "7694",
+        "TITULO": "ROSAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Você pode me ver do jeito que quiser"
+      },
+      "9334": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9334",
+        "TITULO": "RUAS DE OUTONO",
+        "__collections__": {},
+        "INICIO_LETRA": "Nas ruas de outono"
+      },
+      "2931": {
+        "CANTOR": "Ana Carolina",
+        "COD": "2931",
+        "TITULO": "SIMPLESMENTE ACONTECEU",
+        "__collections__": {},
+        "INICIO_LETRA": "Simplesmente aconteceu"
+      },
+      "2818": {
+        "CANTOR": "Ana Carolina",
+        "COD": "2818",
+        "TITULO": "TÁ RINDO, É?",
+        "__collections__": {},
+        "INICIO_LETRA": "Ah hoje eu quebrei o meu despertador"
+      },
+      "9898": {
+        "CANTOR": "Ana Carolina",
+        "COD": "9898",
+        "TITULO": "TOLERÂNCIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Como água no deserto"
+      },
+      "6757": {
+        "CANTOR": "Ana Carolina",
+        "COD": "6757",
+        "TITULO": "UMA LOUCA TEMPESTADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu quero uma Lua plena eu quero..."
+      },
+      "1179": {
+        "CANTOR": "Ana Carolina",
+        "COD": "1179",
+        "TITULO": "VAI",
+        "__collections__": {},
+        "INICIO_LETRA": "Espera aí"
+      },
+      "15357": {
+        "CANTOR": "Ana Carolina - Chiara",
+        "COD": "15357",
+        "TITULO": "UN SUEÑO BAJO EL AGUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Fios elétricos luvas"
+      },
+      "1671": {
+        "CANTOR": "Ana Carolina e John Legend",
+        "COD": "1671",
+        "TITULO": "ENTREOLHARES",
+        "__collections__": {},
+        "INICIO_LETRA": "Se ficar assim me olhando"
+      },
+      "2692": {
+        "CANTOR": "Ana Carolina e Maria Gadú",
+        "COD": "2692",
+        "TITULO": "MAIS QUE A MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Ouvi dizer que você tá bem que já tem"
+      },
+      "7114": {
+        "CANTOR": "Ana Carolina E Seu Jorge",
+        "COD": "7114",
+        "TITULO": "É ISSO AÍ",
+        "__collections__": {},
+        "INICIO_LETRA": "É isso aí..."
+      },
+      "16517": {
+        "CANTOR": "Ana Clara - Atitude 67",
+        "COD": "16517",
+        "TITULO": "PÁGINA MARCADA",
+        "__collections__": {},
+        "INICIO_LETRA": "Você diz que sabe tudo mas de mim não sabe nada"
+      },
+      "1708": {
+        "CANTOR": "Ana e Mú",
+        "COD": "1708",
+        "TITULO": "QUANDO A GENTE AMA PRA VALER",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando a gente ama não há nada que"
+      },
+      "16717": {
+        "CANTOR": "Ana Vilela",
+        "COD": "16717",
+        "TITULO": "PRA NÃO TE ACORDAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Sorte é ver você sorrindo"
+      },
+      "16298": {
+        "CANTOR": "Ana Vilela",
+        "COD": "16298",
+        "TITULO": "PROMETE",
+        "__collections__": {},
+        "INICIO_LETRA": "Prometa que não vai crescer distante"
+      },
+      "16157": {
+        "CANTOR": "Ana Vilela",
+        "COD": "16157",
+        "TITULO": "TREM-BALA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não é sobre ter todas as pessoas do mundo"
+      },
+      "17077": {
+        "CANTOR": "Ana Gabriela - Melim",
+        "COD": "17077",
+        "TITULO": "NÃO TE LARGO, NÃO TE TROCO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sabe quando a gente fica bobo"
+      },
+      "16086": {
+        "CANTOR": "Anavitória",
+        "COD": "16086",
+        "TITULO": "AGORA EU QUERO IR",
+        "__collections__": {},
+        "INICIO_LETRA": "Encontrei descanso em você me arquitetei"
+      },
+      "16371": {
+        "CANTOR": "Anavitória",
+        "COD": "16371",
+        "TITULO": "AI, AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Ei fiz questão da promessa lembrar"
+      },
+      "16219": {
+        "CANTOR": "Anavitória",
+        "COD": "16219",
+        "TITULO": "DENGO",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô dengo me fala tudo sobre o mundo"
+      },
+      "16927": {
+        "CANTOR": "Anavitória",
+        "COD": "16927",
+        "TITULO": "NÓS",
+        "__collections__": {},
+        "INICIO_LETRA": "Se for ficar fica de uma vez não enrola"
+      },
+      "16836": {
+        "CANTOR": "Anavitória",
+        "COD": "16836",
+        "TITULO": "PORQUE EU TE AMO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu poderia acordar sem teu olhar de sono"
+      },
+      "16149": {
+        "CANTOR": "Anavitória",
+        "COD": "16149",
+        "TITULO": "SINGULAR",
+        "__collections__": {},
+        "INICIO_LETRA": "É tão singular o jeito que me observa acordar"
+      },
+      "17208": {
+        "CANTOR": "Anavitória",
+        "COD": "17208",
+        "TITULO": "TE AMAR É MASSA DEMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Te amar é massa demais é tem barulho fé"
+      },
+      "17019": {
+        "CANTOR": "Anavitória - Duda Beat",
+        "COD": "17019",
+        "TITULO": "NÃO PASSA VONTADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando é que você chega amor"
+      },
+      "17315": {
+        "CANTOR": "Anavitória - Jorge e Mateus",
+        "COD": "17315",
+        "TITULO": "GELEIRA DO TEMPO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não te conheço tão no fundo pra entender"
+      },
+      "16206": {
+        "CANTOR": "Anavitória - Matheus e Kauan",
+        "COD": "16206",
+        "TITULO": "FICA",
+        "__collections__": {},
+        "INICIO_LETRA": "Mapeei a dedo tuas sardas"
+      },
+      "17121": {
+        "CANTOR": "Anavitória - Rita Lee",
+        "COD": "17121",
+        "TITULO": "AMARELO, AZUL E BRANCO",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixa eu me apresentar"
+      },
+      "16169": {
+        "CANTOR": "Anavitória - Tiago Iorc",
+        "COD": "16169",
+        "TITULO": "TREVO (TU)",
+        "__collections__": {},
+        "INICIO_LETRA": "Tu é trevo de quatro folhas"
+      },
+      "16548": {
+        "CANTOR": "Anavitória - Vitor Kley",
+        "COD": "16548",
+        "TITULO": "PUPILA",
+        "__collections__": {},
+        "INICIO_LETRA": "Como que eu vou dizer pra ela"
+      },
+      "16073": {
+        "CANTOR": "Anderson Freire",
+        "COD": "16073",
+        "TITULO": "RARIDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Não consigo ir além do teu olhar"
+      },
+      "4150": {
+        "CANTOR": "Andrea Boccelli",
+        "COD": "4150",
+        "TITULO": "COM TE PARTIRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando sono solo sogno all'orizzonte"
+      },
+      "7966": {
+        "CANTOR": "Ângela Maria",
+        "COD": "7966",
+        "TITULO": "FALHASTE CORAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "E tu que acreditavas mandar em todo"
+      },
+      "1276": {
+        "CANTOR": "Ângela Maria",
+        "COD": "1276",
+        "TITULO": "TANGO PRA TEREZA",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje alguém pôs a rodar um disco"
+      },
+      "1287": {
+        "CANTOR": "Ângela Maria e Emílio Santiago",
+        "COD": "1287",
+        "TITULO": "ESCUTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Escuta"
+      },
+      "15896": {
+        "CANTOR": "Angela Rô Rô",
+        "COD": "15896",
+        "TITULO": "ESCÂNDALO",
+        "__collections__": {},
+        "INICIO_LETRA": "Mas doce irmã que que você quer mais"
+      },
+      "6891": {
+        "CANTOR": "Ângela Rô Rô",
+        "COD": "6891",
+        "TITULO": "AMOR, MEU GRANDE AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor meu grande amor…"
+      },
+      "7321": {
+        "CANTOR": "Ângela Rô Rô",
+        "COD": "7321",
+        "TITULO": "COMPASSO",
+        "__collections__": {},
+        "INICIO_LETRA": "É o que pulsa o meu sangue quente"
+      },
+      "7447": {
+        "CANTOR": "Ângela Rô Rô",
+        "COD": "7447",
+        "TITULO": "SIMPLES CARINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Amar é sofrer eu vou te dizer"
+      },
+      "6635": {
+        "CANTOR": "Ângela Rô Rô",
+        "COD": "6635",
+        "TITULO": "SÓ NOS RESTA VIVER",
+        "__collections__": {},
+        "INICIO_LETRA": "Dói em mim saber…"
+      },
+      "1420": {
+        "CANTOR": "Ângela Rô Rô",
+        "COD": "1420",
+        "TITULO": "TOLA FOI VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Tola foi você ao me abandonar"
+      },
+      "1348": {
+        "CANTOR": "Ângela Rô Rô",
+        "COD": "1348",
+        "TITULO": "VICIEI EM VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não quero mais querer você"
+      },
+      "16865": {
+        "CANTOR": "Ângela Rô Rô - Maria Bethânia",
+        "COD": "16865",
+        "TITULO": "FOGUEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Porque queimar minha fogueira"
+      },
+      "16182": {
+        "CANTOR": "Ângela Rô Rô - Paulinho Moska",
+        "COD": "16182",
+        "TITULO": "FELIZ DA VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sonho ou esperança encontrar alguém assim"
+      },
+      "7196": {
+        "CANTOR": "Ângela Valle E Paulo Sérgio Valle",
+        "COD": "7196",
+        "TITULO": "O CAFONA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu eu eu eu eu eu eu eu"
+      },
+      "1493": {
+        "CANTOR": "Angélica",
+        "COD": "1493",
+        "TITULO": "BLUE JEANS",
+        "__collections__": {},
+        "INICIO_LETRA": "Vocês não vão acreditar"
+      },
+      "3993": {
+        "CANTOR": "Angélica",
+        "COD": "3993",
+        "TITULO": "CIÚME",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu queria entender direito essa"
+      },
+      "3429": {
+        "CANTOR": "Angélica",
+        "COD": "3429",
+        "TITULO": "MAGIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sol de verão queimando no meu corpo"
+      },
+      "4361": {
+        "CANTOR": "Angélica",
+        "COD": "4361",
+        "TITULO": "MEU HERÓI",
+        "__collections__": {},
+        "INICIO_LETRA": "Ele é meu herói príncipe encantado..."
+      },
+      "1621": {
+        "CANTOR": "Angélica",
+        "COD": "1621",
+        "TITULO": "PRIMEIRO AMOR (IF)",
+        "__collections__": {},
+        "INICIO_LETRA": "Se você quiser saber quem sou"
+      },
+      "4217": {
+        "CANTOR": "Angélica",
+        "COD": "4217",
+        "TITULO": "TERRA DO NUNCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Lápis de cor, bicicleta, bombom"
+      },
+      "1820": {
+        "CANTOR": "Angélica",
+        "COD": "1820",
+        "TITULO": "VOU DE TÁXI",
+        "__collections__": {},
+        "INICIO_LETRA": "Pela janela do meu quarto"
+      },
+      "6561": {
+        "CANTOR": "Angelo Máximo",
+        "COD": "6561",
+        "TITULO": "A PRIMEIRA NAMORADA",
+        "__collections__": {},
+        "INICIO_LETRA": "A chuva já molhou a rua…"
+      },
+      "6456": {
+        "CANTOR": "Ângelo Máximo",
+        "COD": "6456",
+        "TITULO": "DOMINGO FELIZ (BEAUTIFUL SUNDAY)",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu domingo alegre vai ser…"
+      },
+      "7296": {
+        "CANTOR": "Anísio Silva",
+        "COD": "7296",
+        "TITULO": "ALGUÉM ME DISSE",
+        "__collections__": {},
+        "INICIO_LETRA": "Alguém me disse que tu andas novament"
+      },
+      "15882": {
+        "CANTOR": "Anitta",
+        "COD": "15882",
+        "TITULO": "BANG",
+        "__collections__": {},
+        "INICIO_LETRA": "Vem na maldade com vontade"
+      },
+      "15603": {
+        "CANTOR": "Anitta",
+        "COD": "15603",
+        "TITULO": "BLÁ, BLÁ, BLÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Vou rebolar só porque você não gosta se"
+      },
+      "15883": {
+        "CANTOR": "Anitta",
+        "COD": "15883",
+        "TITULO": "DEIXA ELE SOFRER",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixa ele chorar deixa ele chorar"
+      },
+      "15341": {
+        "CANTOR": "Anitta",
+        "COD": "15341",
+        "TITULO": "MEIGA E ABUSADA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu posso conquistar tudo o que eu que"
+      },
+      "15302": {
+        "CANTOR": "Anitta",
+        "COD": "15302",
+        "TITULO": "MENINA MÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Me olha e deseja que eu veja mas já digo"
+      },
+      "15707": {
+        "CANTOR": "Anitta",
+        "COD": "15707",
+        "TITULO": "NA BATIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não dá mole vem pra cá não tem hora pra acabar"
+      },
+      "15307": {
+        "CANTOR": "Anitta",
+        "COD": "15307",
+        "TITULO": "NÃO PARA",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje cê pode chegar que eu tô querendo"
+      },
+      "16437": {
+        "CANTOR": "Anitta",
+        "COD": "16437",
+        "TITULO": "NÃO PERCO MEU TEMPO",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha só te falei desse jeito não vai rolar"
+      },
+      "15991": {
+        "CANTOR": "Anitta",
+        "COD": "15991",
+        "TITULO": "NO MEU TALENTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Chega fecha o closet na maldade que hoje eu vou"
+      },
+      "16637": {
+        "CANTOR": "Anitta",
+        "COD": "16637",
+        "TITULO": "PANTERA",
+        "__collections__": {},
+        "INICIO_LETRA": "Te avisaram do perigo que é pra ter cuidado"
+      },
+      "16254": {
+        "CANTOR": "Anitta",
+        "COD": "16254",
+        "TITULO": "PARADINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Yo te quiero ver enloquecer"
+      },
+      "15748": {
+        "CANTOR": "Anitta",
+        "COD": "15748",
+        "TITULO": "RITMO PERFEITO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sei lá o que será que você tem só sei que"
+      },
+      "15192": {
+        "CANTOR": "Anitta",
+        "COD": "15192",
+        "TITULO": "SHOW DAS PODEROSAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Prepara que agora é hora do show das"
+      },
+      "15320": {
+        "CANTOR": "Anitta",
+        "COD": "15320",
+        "TITULO": "ZEN",
+        "__collections__": {},
+        "INICIO_LETRA": "Ohh ... Olha cê me faz tão bem só de"
+      },
+      "16540": {
+        "CANTOR": "Anitta - Caetano Veloso",
+        "COD": "16540",
+        "TITULO": "VOCÊ MENTIU",
+        "__collections__": {},
+        "INICIO_LETRA": "Você mentiu"
+      },
+      "15923": {
+        "CANTOR": "Anitta - Jhama",
+        "COD": "15923",
+        "TITULO": "ESSA MINA É LOUCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Essa mina é louca quando eu tô bolado"
+      },
+      "16673": {
+        "CANTOR": "Anitta - Lexa - Luisa Sonza - MC Rebecca",
+        "COD": "16673",
+        "TITULO": "COMBATCHY",
+        "__collections__": {},
+        "INICIO_LETRA": "Agora vai comecar o combatchy"
+      },
+      "16618": {
+        "CANTOR": "Anitta - Ludmilla - Snoop Dogg - Papatinho",
+        "COD": "16618",
+        "TITULO": "ONDA DIFERENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "A noite está cada vez melhor"
+      },
+      "16114": {
+        "CANTOR": "Anitta - Maluma",
+        "COD": "16114",
+        "TITULO": "SIM OU NÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Se quiser jogar vem"
+      },
+      "16649": {
+        "CANTOR": "Anitta - Marília Mendonça",
+        "COD": "16649",
+        "TITULO": "SOME QUE ELE VEM ATRÁS",
+        "__collections__": {},
+        "INICIO_LETRA": "Amiga do céu meu boy me largou"
+      },
+      "16704": {
+        "CANTOR": "Anitta - MC Cabelinho",
+        "COD": "16704",
+        "TITULO": "ATÉ O CÉU",
+        "__collections__": {},
+        "INICIO_LETRA": "E olha como ela chegou de um jeito doce"
+      },
+      "16480": {
+        "CANTOR": "Anitta - MC Kevinho",
+        "COD": "16480",
+        "TITULO": "TERREMOTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Essa mina é sem vergonha"
+      },
+      "16694": {
+        "CANTOR": "Anitta - Melim",
+        "COD": "16694",
+        "TITULO": "MEU MEL",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu mel lembra aquele quarto de hotel"
+      },
+      "16250": {
+        "CANTOR": "Anitta - Pabllo Vittar - Major Lazer",
+        "COD": "16250",
+        "TITULO": "SUA CARA",
+        "__collections__": {},
+        "INICIO_LETRA": "Você prepara mas não dispara"
+      },
+      "17345": {
+        "CANTOR": "Anitta - Pedro Sampaio",
+        "COD": "17345",
+        "TITULO": "NO CHÃO NOVINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Especialmente pra todas elas fiz esse beat"
+      },
+      "15649": {
+        "CANTOR": "Anitta - Projota",
+        "COD": "15649",
+        "TITULO": "COBERTOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sei que o tempo afastar a gente mas"
+      },
+      "16742": {
+        "CANTOR": "Anitta - Psirico",
+        "COD": "16742",
+        "TITULO": "JOGAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Chamei as amigas pro baile"
+      },
+      "16017": {
+        "CANTOR": "Anitta - Vitin",
+        "COD": "16017",
+        "TITULO": "CRAVO E CANELA",
+        "__collections__": {},
+        "INICIO_LETRA": "Tão bela ela é linda de verdade"
+      },
+      "16728": {
+        "CANTOR": "Anitta-MC Zaac-Maejor-Tropkillaz-DJ Yuri",
+        "COD": "16728",
+        "TITULO": "VAI MALANDRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Vai malandra an an"
+      },
+      "7156": {
+        "CANTOR": "Anne Duá",
+        "COD": "7156",
+        "TITULO": "INDECENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Não há santo que aguente"
+      },
+      "3549": {
+        "CANTOR": "Antônio C. E Jocafi",
+        "COD": "3549",
+        "TITULO": "VOCÊ ABUSOU",
+        "__collections__": {},
+        "INICIO_LETRA": "Você abusou tirou partido de mim"
+      },
+      "6908": {
+        "CANTOR": "Antônio Carlos E Jocafi",
+        "COD": "6908",
+        "TITULO": "DESACATO",
+        "__collections__": {},
+        "INICIO_LETRA": "Inesquecível aquele amor que nem…"
+      },
+      "6986": {
+        "CANTOR": "Antônio Carlos E Jocafi",
+        "COD": "6986",
+        "TITULO": "TEIMOSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Nas peripécias do amor teimosa…"
+      },
+      "4427": {
+        "CANTOR": "Antônio Fagundes",
+        "COD": "4427",
+        "TITULO": "CANTO ALEGRETENSE",
+        "__collections__": {},
+        "INICIO_LETRA": "Não me perguntes onde fica o..."
+      },
+      "2934": {
+        "CANTOR": "Antonio Marcos",
+        "COD": "2934",
+        "TITULO": "SOU EU",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não quero nunca mais"
+      },
+      "1376": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "1376",
+        "TITULO": "CARA A CARA",
+        "__collections__": {},
+        "INICIO_LETRA": "Cara a cara cara a cara cara a cara"
+      },
+      "6919": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "6919",
+        "TITULO": "EU TENHO UM AMOR MELHOR QUE O SEU",
+        "__collections__": {},
+        "INICIO_LETRA": "Todo o amor que eu lhe dei você…"
+      },
+      "6939": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "6939",
+        "TITULO": "MENINA DE TRANÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Desde os tempos de criança…"
+      },
+      "1618": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "1618",
+        "TITULO": "ORAÇÃO DE UM JOVEM TRISTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu tanto ouvia falar em ti"
+      },
+      "1397": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "1397",
+        "TITULO": "QUEM DÁ MAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu quero me ver"
+      },
+      "6351": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "6351",
+        "TITULO": "SE EU PUDESSE CONVERSAR COM DEUS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu hoje estou tão triste..."
+      },
+      "4376": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "4376",
+        "TITULO": "SONHOS DE UM PALHAÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "Vejam só que história boba eu tenho pra"
+      },
+      "16580": {
+        "CANTOR": "Antônio Marcos",
+        "COD": "16580",
+        "TITULO": "VOCÊ PEDIU E EU JÁ VOU DAQUI",
+        "__collections__": {},
+        "INICIO_LETRA": "Você pediu e eu já vou daqui"
+      },
+      "16290": {
+        "CANTOR": "Antony e Gabriel - Munhoz e Mariano",
+        "COD": "16290",
+        "TITULO": "TE AMANDO MAIS QUE PINGA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela acorda cedo e eu meio-dia"
+      },
+      "6204": {
+        "CANTOR": "Ara Ketu",
+        "COD": "6204",
+        "TITULO": "AMANTES",
+        "__collections__": {},
+        "INICIO_LETRA": "Vou caminhando nas ruas pensando..."
+      },
+      "3017": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3017",
+        "TITULO": "ARA KETU BOM DEMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Não dá pra esconder"
+      },
+      "3990": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3990",
+        "TITULO": "AURORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Como eu vou ficar, amor"
+      },
+      "15366": {
+        "CANTOR": "Ara Ketu",
+        "COD": "15366",
+        "TITULO": "CARTA BRANCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Por amor eu faço mil loucuras se você"
+      },
+      "6328": {
+        "CANTOR": "Ara Ketu",
+        "COD": "6328",
+        "TITULO": "COBERTOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Como é que você foi embora..."
+      },
+      "6060": {
+        "CANTOR": "Ara Ketu",
+        "COD": "6060",
+        "TITULO": "FACE OCULTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô ô ié ié ié ié hum Sonhei com você..."
+      },
+      "4041": {
+        "CANTOR": "Ara Ketu",
+        "COD": "4041",
+        "TITULO": "MAL ACOSTUMADO",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor de verdade eu só senti"
+      },
+      "4323": {
+        "CANTOR": "Ara Ketu",
+        "COD": "4323",
+        "TITULO": "MINHA RAZÃO DE VIVER",
+        "__collections__": {},
+        "INICIO_LETRA": "Como eu digo ao meu coração..."
+      },
+      "3586": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3586",
+        "TITULO": "NOSSA GUERRA SANTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Esse nosso amor é uma loucura"
+      },
+      "3893": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3893",
+        "TITULO": "PIPOCA",
+        "__collections__": {},
+        "INICIO_LETRA": "O Araketu o Araketu quando toca"
+      },
+      "3389": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3389",
+        "TITULO": "SEMPRE SERÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Gosto de ficar te olhando"
+      },
+      "3978": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3978",
+        "TITULO": "TÁ NA CARA",
+        "__collections__": {},
+        "INICIO_LETRA": "Basta uma brisa da praia pra gente"
+      },
+      "3775": {
+        "CANTOR": "Ara Ketu",
+        "COD": "3775",
+        "TITULO": "TENTAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "No meu corpo ficou a lembrança"
+      },
+      "7260": {
+        "CANTOR": "Ara Ketu",
+        "COD": "7260",
+        "TITULO": "TOMA LÁ, DÁ CÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Toma lá dá cá me dá meu troco"
+      },
+      "6560": {
+        "CANTOR": "Ara Ketu",
+        "COD": "6560",
+        "TITULO": "VOLTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor minha maior felicidade…"
+      },
+      "17100": {
+        "CANTOR": "Araketu",
+        "COD": "17100",
+        "TITULO": "TELEFONA",
+        "__collections__": {},
+        "INICIO_LETRA": "O que eu sinto por você"
+      },
+      "1412": {
+        "CANTOR": "Arlindo Cruz",
+        "COD": "1412",
+        "TITULO": "HOJE TEM SAMBA",
+        "__collections__": {},
+        "INICIO_LETRA": "A minha vida anda triste tô brigado"
+      },
+      "15541": {
+        "CANTOR": "Arlindo Cruz",
+        "COD": "15541",
+        "TITULO": "MEU LUGAR",
+        "__collections__": {},
+        "INICIO_LETRA": "O meu lugar é caminho de Ogum e Iansã"
+      },
+      "1619": {
+        "CANTOR": "Arlindo Cruz",
+        "COD": "1619",
+        "TITULO": "PARA DE PARADINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Se liga no papo xará"
+      },
+      "15598": {
+        "CANTOR": "Arlindo Cruz",
+        "COD": "15598",
+        "TITULO": "VAI EMBORA TRISTEZA",
+        "__collections__": {},
+        "INICIO_LETRA": "O vento traz o cheiro da alegria e avisa que"
+      },
+      "16071": {
+        "CANTOR": "Arlindo Cruz - Maria Rita",
+        "COD": "16071",
+        "TITULO": "O QUE É O AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Se perguntar o que é o amor pra mim"
+      },
+      "6447": {
+        "CANTOR": "Arlindo Farias",
+        "COD": "6447",
+        "TITULO": "BICHO DO MATO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sou bicho feito do mato não tenho…"
+      },
+      "15523": {
+        "CANTOR": "Arlindo Neto",
+        "COD": "15523",
+        "TITULO": "BOM APRENDIZ",
+        "__collections__": {},
+        "INICIO_LETRA": "La laiá la...Vai e diz a ela que não dá"
+      },
+      "1281": {
+        "CANTOR": "Armandinho",
+        "COD": "1281",
+        "TITULO": "A FILHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando me dá uma louca"
+      },
+      "9613": {
+        "CANTOR": "Armandinho",
+        "COD": "9613",
+        "TITULO": "ANALUA",
+        "__collections__": {},
+        "INICIO_LETRA": "De repente uma nuvem encobriu a lua"
+      },
+      "1322": {
+        "CANTOR": "Armandinho",
+        "COD": "1322",
+        "TITULO": "BABILÔNIA ME CHAMA",
+        "__collections__": {},
+        "INICIO_LETRA": "Babilônia me chama"
+      },
+      "7909": {
+        "CANTOR": "Armandinho",
+        "COD": "7909",
+        "TITULO": "BALANÇO DA REDE",
+        "__collections__": {},
+        "INICIO_LETRA": "É no balanço da rede é no balanço do"
+      },
+      "7922": {
+        "CANTOR": "Armandinho",
+        "COD": "7922",
+        "TITULO": "CASINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Fazer uma casinha no alto do morro"
+      },
+      "7334": {
+        "CANTOR": "Armandinho",
+        "COD": "7334",
+        "TITULO": "DESENHO DE DEUS",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando Deus te desenhou Ele tava namo"
+      },
+      "7365": {
+        "CANTOR": "Armandinho",
+        "COD": "7365",
+        "TITULO": "FOLHA DE BANANEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Fuma fuma fuma folha de bananeira"
+      },
+      "9843": {
+        "CANTOR": "Armandinho",
+        "COD": "9843",
+        "TITULO": "MORENA NATIVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Morena nativa desde criança"
+      },
+      "9531": {
+        "CANTOR": "Armandinho",
+        "COD": "9531",
+        "TITULO": "SEMENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Semente semente semente semente seme"
+      },
+      "16569": {
+        "CANTOR": "Armandinho",
+        "COD": "16569",
+        "TITULO": "SOL LOIRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Te sinto tão longe longe longe longe"
+      },
+      "7472": {
+        "CANTOR": "Armandinho",
+        "COD": "7472",
+        "TITULO": "URSINHO DE DORMIR",
+        "__collections__": {},
+        "INICIO_LETRA": "E hoje eu descobri o quanto te quero"
+      },
+      "1019": {
+        "CANTOR": "Armandinho",
+        "COD": "1019",
+        "TITULO": "OUTRA VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Talvez não seja nessa vida ainda"
+      },
+      "16549": {
+        "CANTOR": "Armandinho - Fabão",
+        "COD": "16549",
+        "TITULO": "TOCA UMA REGGUERA AÍ",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô meu toca uma reggera aí"
+      },
+      "15203": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "15203",
+        "TITULO": "A CASA É SUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não me falta cadeira não me falta sofá"
+      },
+      "16048": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "16048",
+        "TITULO": "A NOSSA CASA",
+        "__collections__": {},
+        "INICIO_LETRA": "Na nossa casa amor-perfeito é mato"
+      },
+      "15845": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "15845",
+        "TITULO": "DIZEM (QUEM ME DERA)",
+        "__collections__": {},
+        "INICIO_LETRA": "O mundo está bem melhor do que há cem anos"
+      },
+      "16894": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "16894",
+        "TITULO": "ENVELHECER",
+        "__collections__": {},
+        "INICIO_LETRA": "A coisa mais moderna que existe"
+      },
+      "1591": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "1591",
+        "TITULO": "INVEJOSO",
+        "__collections__": {},
+        "INICIO_LETRA": "O carro do vizinho é muito mais possa"
+      },
+      "16297": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "16297",
+        "TITULO": "PÕE FÉ QUE JÁ É",
+        "__collections__": {},
+        "INICIO_LETRA": "Se você não tem medo se você não tem"
+      },
+      "16330": {
+        "CANTOR": "Arnaldo Antunes",
+        "COD": "16330",
+        "TITULO": "SAIBA",
+        "__collections__": {},
+        "INICIO_LETRA": "Saiba todo mundo foi neném"
+      },
+      "9849": {
+        "CANTOR": "Arnaldo Antunes e Nando Reis",
+        "COD": "9849",
+        "TITULO": "NÃO VOU ME ADAPTAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não caibo mais nas roupas que eu ca"
+      },
+      "6614": {
+        "CANTOR": "Arriba Saia",
+        "COD": "6614",
+        "TITULO": "LIBERA O TÓIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Sequestraram o Toim sequestraram…"
+      },
+      "4344": {
+        "CANTOR": "Art Popular",
+        "COD": "4344",
+        "TITULO": "AGAMAMOU",
+        "__collections__": {},
+        "INICIO_LETRA": "A galera lá do morro do Salgueiro e Vidigal..."
+      },
+      "3306": {
+        "CANTOR": "Art Popular",
+        "COD": "3306",
+        "TITULO": "BOM BOCADO",
+        "__collections__": {},
+        "INICIO_LETRA": "Como um bom bocado pra te devorar"
+      },
+      "4435": {
+        "CANTOR": "Art Popular",
+        "COD": "4435",
+        "TITULO": "DIZEM QUE A FELICIDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Dizem que a felicidade é um momento..."
+      },
+      "16933": {
+        "CANTOR": "Art Popular",
+        "COD": "16933",
+        "TITULO": "ENCONTRO",
+        "__collections__": {},
+        "INICIO_LETRA": "O amor chegou pra mim era noite de"
+      },
+      "3797": {
+        "CANTOR": "Art Popular",
+        "COD": "3797",
+        "TITULO": "FRICOTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Você é meu amor te quero de novo"
+      },
+      "6179": {
+        "CANTOR": "Art Popular",
+        "COD": "6179",
+        "TITULO": "HISTÓRIA SEM FIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Lerê rê rê... Do seu amor eu gosto…"
+      },
+      "3845": {
+        "CANTOR": "Art Popular",
+        "COD": "3845",
+        "TITULO": "IRAÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Vejo você me olhar, ah que olhar"
+      },
+      "6065": {
+        "CANTOR": "Art Popular",
+        "COD": "6065",
+        "TITULO": "MANEIRAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Se eu quiser fumar eu fumo..."
+      },
+      "3582": {
+        "CANTOR": "Art Popular",
+        "COD": "3582",
+        "TITULO": "NANI",
+        "__collections__": {},
+        "INICIO_LETRA": "Quantas vezes Nani tantas vezes Nani"
+      },
+      "17297": {
+        "CANTOR": "Art Popular",
+        "COD": "17297",
+        "TITULO": "NOVA ERA",
+        "__collections__": {},
+        "INICIO_LETRA": "Dia de Sol a saudade aperta um desejo"
+      },
+      "4045": {
+        "CANTOR": "Art Popular",
+        "COD": "4045",
+        "TITULO": "PAGODE DA AMARELINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Pagode da amarelinha"
+      },
+      "3953": {
+        "CANTOR": "Art Popular",
+        "COD": "3953",
+        "TITULO": "PÉTALAS DE ROSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ah ah...ah ah...ah ah..."
+      },
+      "3535": {
+        "CANTOR": "Art Popular",
+        "COD": "3535",
+        "TITULO": "PIMPOLHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Pimpolho é um cara bem legal pena que"
+      },
+      "4490": {
+        "CANTOR": "Art Popular",
+        "COD": "4490",
+        "TITULO": "POR DEUS",
+        "__collections__": {},
+        "INICIO_LETRA": "De manhã o Sol me diz sexo eu quis..."
+      },
+      "4410": {
+        "CANTOR": "Art Popular",
+        "COD": "4410",
+        "TITULO": "QUANDO VOCÊ ME BEIJA",
+        "__collections__": {},
+        "INICIO_LETRA": "Um beijo durante aquele amor..."
+      },
+      "4173": {
+        "CANTOR": "Art Popular",
+        "COD": "4173",
+        "TITULO": "SAI DA FRENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor eu não consigo viver mais"
+      },
+      "16464": {
+        "CANTOR": "Art Popular",
+        "COD": "16464",
+        "TITULO": "SEM ABUSO",
+        "__collections__": {},
+        "INICIO_LETRA": "Um dia você diz pra mim que ama me adora"
+      },
+      "3544": {
+        "CANTOR": "Art Popular",
+        "COD": "3544",
+        "TITULO": "TEMPORAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Faz tempo que a gente não é aquele"
+      },
+      "3598": {
+        "CANTOR": "Art Popular",
+        "COD": "3598",
+        "TITULO": "TRAPAÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você passa tento te dizer"
+      },
+      "3349": {
+        "CANTOR": "Art Popular",
+        "COD": "3349",
+        "TITULO": "UTOPIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Pra se dizer que a emoção vem depois"
+      },
+      "3285": {
+        "CANTOR": "Art Popular",
+        "COD": "3285",
+        "TITULO": "VALEU DEMAIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Ai valeu demais valeu valeu demais"
+      },
+      "17445": {
+        "CANTOR": "Arthur Aguiar - Matheus e Kauan",
+        "COD": "17445",
+        "TITULO": "CASA REVIRADA",
+        "__collections__": {},
+        "INICIO_LETRA": "Bebê cadê você quero te ver"
+      },
+      "15151": {
+        "CANTOR": "Arthur Dani",
+        "COD": "15151",
+        "TITULO": "SE VOCÊ ME DER",
+        "__collections__": {},
+        "INICIO_LETRA": "Se você me der me der um pouco de carinho"
+      },
+      "9462": {
+        "CANTOR": "As Chicas",
+        "COD": "9462",
+        "TITULO": "GERALDINOS E ARQUIBALDOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Mamãe não quer não faça papai diz não"
+      },
+      "9382": {
+        "CANTOR": "As Frenéticas",
+        "COD": "9382",
+        "TITULO": "AGITO E USO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sou uma moça sem recato"
+      },
+      "9862": {
+        "CANTOR": "As Frenéticas",
+        "COD": "9862",
+        "TITULO": "PERIGOSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sei que eu sou bonita e gostosa"
+      },
+      "1935": {
+        "CANTOR": "As marcianas",
+        "COD": "1935",
+        "TITULO": "NOSSA MELODIA PREFERIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor hoje descobri"
+      },
+      "4475": {
+        "CANTOR": "As Meninas",
+        "COD": "4475",
+        "TITULO": "EU TENHO A MANHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Saiu de casa..."
+      },
+      "4456": {
+        "CANTOR": "As Meninas",
+        "COD": "4456",
+        "TITULO": "SAMBA DA NEGA MALUCA",
+        "__collections__": {},
+        "INICIO_LETRA": "\"Afe\" Maria ô nega danada..."
+      },
+      "4419": {
+        "CANTOR": "As Meninas",
+        "COD": "4419",
+        "TITULO": "XIBOM BOMBOM",
+        "__collections__": {},
+        "INICIO_LETRA": "Bom xibom...Analisando essa cadeia..."
+      },
+      "4141": {
+        "CANTOR": "Asa De Águia",
+        "COD": "4141",
+        "TITULO": "A DANÇA DO VAMPIRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Você é o amor que eu sempre"
+      },
+      "7498": {
+        "CANTOR": "Asa De Águia",
+        "COD": "7498",
+        "TITULO": "AMOR DE FÉ",
+        "__collections__": {},
+        "INICIO_LETRA": "Nosso amor não é de brincadeira"
+      },
+      "7568": {
+        "CANTOR": "Asa De Águia",
+        "COD": "7568",
+        "TITULO": "CASAMENTO NÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não me chame pra morar não me chame"
+      },
+      "3909": {
+        "CANTOR": "Asa De Águia",
+        "COD": "3909",
+        "TITULO": "DANÇA DA MANIVELA",
+        "__collections__": {},
+        "INICIO_LETRA": "Dança da manivela"
+      },
+      "7104": {
+        "CANTOR": "Asa De Águia",
+        "COD": "7104",
+        "TITULO": "DIA DOS NAMORADOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Todo dia no mar do farol"
+      },
+      "4321": {
+        "CANTOR": "Asa De Águia",
+        "COD": "4321",
+        "TITULO": "MARÉ MANSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor não dá pra te aturar desse jeito..."
+      },
+      "3714": {
+        "CANTOR": "Asa De Águia",
+        "COD": "3714",
+        "TITULO": "NÃO TEM LUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não tem lua que faça você me amar"
+      },
+      "7658": {
+        "CANTOR": "Asa De Águia",
+        "COD": "7658",
+        "TITULO": "O REI DA RUA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu vou eu vou no toque do tambor"
+      },
+      "1440": {
+        "CANTOR": "Asa de Águia",
+        "COD": "1440",
+        "TITULO": "VALE NIGHT",
+        "__collections__": {},
+        "INICIO_LETRA": "Vale night"
+      },
+      "16285": {
+        "CANTOR": "Asa de Águia",
+        "COD": "16285",
+        "TITULO": "XÔ SATANÁS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu era um bêbado"
+      },
+      "1008": {
+        "CANTOR": "Asa de Águia",
+        "COD": "1008",
+        "TITULO": "DIA DO ASA",
+        "__collections__": {},
+        "INICIO_LETRA": "Leve o seu amor pra passear"
+      },
+      "1009": {
+        "CANTOR": "Asa de Águia",
+        "COD": "1009",
+        "TITULO": "FARRAUÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Mãos para o alto todo mundo"
+      },
+      "15468": {
+        "CANTOR": "Asa de Águia - Magary Lord",
+        "COD": "15468",
+        "TITULO": "MAMIKO",
+        "__collections__": {},
+        "INICIO_LETRA": "Cai cai cai cai na dança samurai"
+      },
+      "1003": {
+        "CANTOR": "Asa de Águia e Ivete Sangalo",
+        "COD": "1003",
+        "TITULO": "ALÉM MAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo que eu preciso eu já tenho aqui"
+      },
+      "16186": {
+        "CANTOR": "Ataíde e Alexandre",
+        "COD": "16186",
+        "TITULO": "LAÇO ABERTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Te amar foi um erro foi um erro te amar"
+      },
+      "1318": {
+        "CANTOR": "Ataíde e Alexandre",
+        "COD": "1318",
+        "TITULO": "VOCÊ MARCOU PRA MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando eu acordei pela manhã"
+      },
+      "3007": {
+        "CANTOR": "Ataulfo Alves",
+        "COD": "3007",
+        "TITULO": "AI! QUE SAUDADES DA AMÉLIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Nunca vi fazer tanta exigência"
+      },
+      "3022": {
+        "CANTOR": "Ataulfo Alves",
+        "COD": "3022",
+        "TITULO": "ATIRE A PRIMEIRA PEDRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Covarde sei que me podem chamar"
+      },
+      "7205": {
+        "CANTOR": "Ataulfo Jr.",
+        "COD": "7205",
+        "TITULO": "OS MENINOS DA MANGUEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Um menino da Mangueira recebeu pelo"
+      },
+      "6656": {
+        "CANTOR": "Ataulpho Alves",
+        "COD": "6656",
+        "TITULO": "LEVA MEU SAMBA",
+        "__collections__": {},
+        "INICIO_LETRA": "Leva meu samba meu mensageiro..."
+      },
+      "6631": {
+        "CANTOR": "Ataulpho Alves",
+        "COD": "6631",
+        "TITULO": "SEI QUE É COVARDIA... MAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Sei que é covardia…"
+      },
+      "1117": {
+        "CANTOR": "Atitude 4",
+        "COD": "1117",
+        "TITULO": "PRO MUNDO INTEIRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu nunca tive amor assim"
+      },
+      "16346": {
+        "CANTOR": "Atitude 67",
+        "COD": "16346",
+        "TITULO": "CERVEJA DE GARRAFA (FUMAÇA QUE EU FAÇO)",
+        "__collections__": {},
+        "INICIO_LETRA": "Bacana como tá legal aqui"
+      },
+      "16692": {
+        "CANTOR": "Atitude 67",
+        "COD": "16692",
+        "TITULO": "DEUS ABENÇOE O ROLÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Amém olha só como é da hora"
+      },
+      "16559": {
+        "CANTOR": "Atitude 67",
+        "COD": "16559",
+        "TITULO": "TÃO LINDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Moleque safo quietinho sempre saia sozinho"
+      },
+      "17215": {
+        "CANTOR": "Atitude 67 - Analaga - Vitor Kley",
+        "COD": "17215",
+        "TITULO": "ISSO É AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu tô aqui pra te dizer que isso é amor"
+      },
+      "17024": {
+        "CANTOR": "Atitude 67 - Ivete Sangalo - Analaga",
+        "COD": "17024",
+        "TITULO": "CHEGA DIFERENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Ê-iê-iê... Chega diferente sempre na moral"
+      },
+      "16847": {
+        "CANTOR": "Atitude 67 - Maurício Manieri",
+        "COD": "16847",
+        "TITULO": "OUTRA VEZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Um toque um beijo um cheiro"
+      },
+      "16765": {
+        "CANTOR": "Atitude 67 - Thiaguinho",
+        "COD": "16765",
+        "TITULO": "HOLA CHICA",
+        "__collections__": {},
+        "INICIO_LETRA": "Hola chica e ai que tal"
+      },
+      "16648": {
+        "CANTOR": "Atitude 67 - Thiaguinho",
+        "COD": "16648",
+        "TITULO": "SAIDEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Outra vez vacilei mas você já sabia"
+      },
+      "7929": {
+        "CANTOR": "Augusto César",
+        "COD": "7929",
+        "TITULO": "COMO POSSO TE ESQUECER",
+        "__collections__": {},
+        "INICIO_LETRA": "Como posso te esquecer se em tudo eu"
+      },
+      "3249": {
+        "CANTOR": "Augusto César",
+        "COD": "3249",
+        "TITULO": "SAUDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Estou lendo a carta que você me escreveu"
+      },
+      "1123": {
+        "CANTOR": "Auto-Sustentável",
+        "COD": "1123",
+        "TITULO": "2 MUNDOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Será que dois mundos tão diferentes"
+      },
+      "17484": {
+        "CANTOR": "Avine Vinny - Mari Fernandez",
+        "COD": "17484",
+        "TITULO": "VAZOU UM ÁUDIO",
+        "__collections__": {},
+        "INICIO_LETRA": "Vazou um áudio seu falando de mim por aí"
+      },
+      "17303": {
+        "CANTOR": "Avine Vinny - Matheus Fernandes",
+        "COD": "17303",
+        "TITULO": "CORAÇÃO CACHORRO (LATE CORAÇÃO)",
+        "__collections__": {},
+        "INICIO_LETRA": "Logo hoje que eu tava bem"
+      },
+      "9589": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "9589",
+        "TITULO": "ABRE O SOM",
+        "__collections__": {},
+        "INICIO_LETRA": "Oi abre o som do porta mala"
+      },
+      "16087": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "16087",
+        "TITULO": "BANCA DE FLORES",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu te falei que não ia dar certo"
+      },
+      "9622": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "9622",
+        "TITULO": "BEBER, CAIR E LEVANTAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Vamos embora pra um bar"
+      },
+      "1354": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "1354",
+        "TITULO": "BLÁ BLÁ BLÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Que por mim você morre de amor"
+      },
+      "9643": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "9643",
+        "TITULO": "CHUPA QUE É DE UVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Vem meu cajuzinho te dou muito carinh"
+      },
+      "2802": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "2802",
+        "TITULO": "CORRENDO ATRÁS DE MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu quero ver você correndo"
+      },
+      "1411": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "1411",
+        "TITULO": "EU NÃO VOU MAIS CHORAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não vou mais chorar eu não vou mais"
+      },
+      "16164": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "16164",
+        "TITULO": "FIQUEI SABENDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Ouvi falar que você tá de namorado novo"
+      },
+      "7979": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "7979",
+        "TITULO": "INDECISÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você diz que me quer"
+      },
+      "16411": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "16411",
+        "TITULO": "INQUILINA",
+        "__collections__": {},
+        "INICIO_LETRA": "Você morava no meu coração"
+      },
+      "6931": {
+        "CANTOR": "Aviões Do Forró",
+        "COD": "6931",
+        "TITULO": "LOCADORA DE MULHER",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu descobri uma locadora de mulher…"
+      },
+      "15884": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "15884",
+        "TITULO": "NO TOQUE DO CELULAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Esse som é envolvente vai fazer você pirar"
+      },
+      "7691": {
+        "CANTOR": "Aviões Do Forró",
+        "COD": "7691",
+        "TITULO": "RISCA-FACA",
+        "__collections__": {},
+        "INICIO_LETRA": "De bar em bar de mesa em mesa"
+      },
+      "17169": {
+        "CANTOR": "Aviões do Forró",
+        "COD": "17169",
+        "TITULO": "TÔ LIMPANDO VOCÊ DA MINHA VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quem me vê dançando assim"
+      },
+      "1002": {
+        "CANTOR": "Aviões do Forró e Banda Calypso",
+        "COD": "1002",
+        "TITULO": "AGORA CHORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Sei que nada vai fazer você voltar"
+      },
+      "16743": {
+        "CANTOR": "Axé Blond",
+        "COD": "16743",
+        "TITULO": "PANCADÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "E vai jogando pro lado de lá"
+      },
+      "17050": {
+        "CANTOR": "Axé Blond",
+        "COD": "17050",
+        "TITULO": "PEGA ESSA LEVADA",
+        "__collections__": {},
+        "INICIO_LETRA": "Nesse compasso você vai ter que aprender"
+      },
+      "15987": {
+        "CANTOR": "Azimuth",
+        "COD": "15987",
+        "TITULO": "LINHA DO HORIZONTE",
+        "__collections__": {},
+        "INICIO_LETRA": "É eu vou pro ar no azul mais lindo"
+      },
+      "7281": {
+        "CANTOR": "Babado Novo",
+        "COD": "7281",
+        "TITULO": "A CAMISA E O BOTÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando o sol sair me beije me beije"
+      },
+      "9586": {
+        "CANTOR": "Babado Novo",
+        "COD": "9586",
+        "TITULO": "ABC DE ME DAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Quero você do meu lado pra cantar de"
+      },
+      "9592": {
+        "CANTOR": "Babado Novo",
+        "COD": "9592",
+        "TITULO": "ACONTECEU VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "No dia em que o amor chegou"
+      },
+      "6565": {
+        "CANTOR": "Babado Novo",
+        "COD": "6565",
+        "TITULO": "CAI FORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não quero te prender diga onde…"
+      },
+      "9409": {
+        "CANTOR": "Babado Novo",
+        "COD": "9409",
+        "TITULO": "CARANGUEJO",
+        "__collections__": {},
+        "INICIO_LETRA": "Vou catar caranguejo lá no manguezal"
+      },
+      "9422": {
+        "CANTOR": "Babado Novo",
+        "COD": "9422",
+        "TITULO": "COLADINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Se é pra namorar"
+      },
+      "7584": {
+        "CANTOR": "Babado Novo",
+        "COD": "7584",
+        "TITULO": "DESPENTEIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Viver a vida com emoção"
+      },
+      "7946": {
+        "CANTOR": "Babado Novo",
+        "COD": "7946",
+        "TITULO": "DOCE PAIXÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Toda vez que eu te vejo o meu coração dispara"
+      },
+      "9455": {
+        "CANTOR": "Babado Novo",
+        "COD": "9455",
+        "TITULO": "EXTRAVASA",
+        "__collections__": {},
+        "INICIO_LETRA": "Dominou geral sacudiu a praça"
+      },
+      "7622": {
+        "CANTOR": "Babado Novo",
+        "COD": "7622",
+        "TITULO": "JANEIRO A JANEIRO",
+        "__collections__": {},
+        "INICIO_LETRA": "Quero você por inteiro só pra mim"
+      },
+      "7623": {
+        "CANTOR": "Babado Novo",
+        "COD": "7623",
+        "TITULO": "JANELA",
+        "__collections__": {},
+        "INICIO_LETRA": "Janela que mostra o céu"
+      },
+      "7374": {
+        "CANTOR": "Babado Novo",
+        "COD": "7374",
+        "TITULO": "LIRIRRIXA",
+        "__collections__": {},
+        "INICIO_LETRA": "Lirirrixa timbaleia"
+      },
+      "9529": {
+        "CANTOR": "Babado Novo",
+        "COD": "9529",
+        "TITULO": "ROCK TRIBAL",
+        "__collections__": {},
+        "INICIO_LETRA": "A rua é o palco universal"
+      },
+      "6714": {
+        "CANTOR": "Babado Novo",
+        "COD": "6714",
+        "TITULO": "SAFADO, CACHORRO SEM VERGONHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixa de ser mulherengo homem..."
+      },
+      "9360": {
+        "CANTOR": "Babado Novo",
+        "COD": "9360",
+        "TITULO": "VER-TE MAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Me leva para ver o mar ver-te mar ver"
+      },
+      "7073": {
+        "CANTOR": "Babado Novo",
+        "COD": "7073",
+        "TITULO": "BOLA DE SABÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Baby baby queria tanto te ver"
+      },
+      "9315": {
+        "CANTOR": "Babado Novo",
+        "COD": "9315",
+        "TITULO": "PENSANDO EM VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Tava satisfeita em te ter como amigo"
+      },
+      "15329": {
+        "CANTOR": "Babado Novo - Bruno e Marrone",
+        "COD": "15329",
+        "TITULO": "DOCE DESEJO",
+        "__collections__": {},
+        "INICIO_LETRA": "Tá no jeito de olhar"
+      },
+      "2886": {
+        "CANTOR": "Baby Consuelo",
+        "COD": "2886",
+        "TITULO": "EMILIA (A BONECA GENTE)",
+        "__collections__": {},
+        "INICIO_LETRA": "De uma caixa de costura pano linha e agulha"
+      },
+      "4004": {
+        "CANTOR": "Baby Consuelo",
+        "COD": "4004",
+        "TITULO": "MENINO DO RIO",
+        "__collections__": {},
+        "INICIO_LETRA": "Menino do rio"
+      },
+      "4372": {
+        "CANTOR": "Baby Consuelo",
+        "COD": "4372",
+        "TITULO": "SEM PECADO SEM JUÍZO",
+        "__collections__": {},
+        "INICIO_LETRA": "Dia após dia começo a encontrar..."
+      },
+      "9554": {
+        "CANTOR": "Baby do Brasil",
+        "COD": "9554",
+        "TITULO": "UM AUÊ COM VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu queria tanto voar com você"
+      },
+      "7613": {
+        "CANTOR": "Baiano E Os Novos Caetanos",
+        "COD": "7613",
+        "TITULO": "FOLIA DE REIS",
+        "__collections__": {},
+        "INICIO_LETRA": "Ai... andar andei ai... como eu andei"
+      },
+      "6050": {
+        "CANTOR": "Bala, Bombom E Chocolate",
+        "COD": "6050",
+        "TITULO": "CAIXA POSTAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Umdharan dharará...Diz pra mim..."
+      },
+      "4351": {
+        "CANTOR": "Bala, Bombom E Chocolate",
+        "COD": "4351",
+        "TITULO": "FISSURAS DE UM CASAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu acordei..."
+      },
+      "2823": {
+        "CANTOR": "Balão Magico",
+        "COD": "2823",
+        "TITULO": "AI MEU NARIZ! (TENGO UN GRANO EN EL NARIZ)",
+        "__collections__": {},
+        "INICIO_LETRA": "Ai meu nariz a-a-a-a-atchim"
+      },
+      "2858": {
+        "CANTOR": "Balão Mágico",
+        "COD": "2858",
+        "TITULO": "QUADRINHAS E UM REFRÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Canta canta essa canção são"
+      },
+      "17046": {
+        "CANTOR": "Balão Mágico (A turma do)",
+        "COD": "17046",
+        "TITULO": "MÃE-IÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Manhê sabe o que me aconteceu"
+      },
+      "17289": {
+        "CANTOR": "Balão Mágico (A Turma do)",
+        "COD": "17289",
+        "TITULO": "VOCÊ E EU",
+        "__collections__": {},
+        "INICIO_LETRA": "Linda como o céu e tão profunda como o mar"
+      },
+      "3354": {
+        "CANTOR": "Banda Bach",
+        "COD": "3354",
+        "TITULO": "ATÉ DE MANHÃ",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor aquilo foi demais pra mim"
+      },
+      "3983": {
+        "CANTOR": "Banda Beijo",
+        "COD": "3983",
+        "TITULO": "A VIDA É FESTA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor quero sentir o teu perfume"
+      },
+      "6087": {
+        "CANTOR": "Banda Beijo",
+        "COD": "6087",
+        "TITULO": "BATE LATA",
+        "__collections__": {},
+        "INICIO_LETRA": "Era um menino tocador que dispensou..."
+      },
+      "4127": {
+        "CANTOR": "Banda Beijo",
+        "COD": "4127",
+        "TITULO": "PERAÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Pára de sorrir senão te agarro"
+      },
+      "15810": {
+        "CANTOR": "Banda Black Rio",
+        "COD": "15810",
+        "TITULO": "CARROSSEL",
+        "__collections__": {},
+        "INICIO_LETRA": "Basta o teu olhar pra me hipnotizar"
+      },
+      "3412": {
+        "CANTOR": "Banda Brasil",
+        "COD": "3412",
+        "TITULO": "COMO DÓI",
+        "__collections__": {},
+        "INICIO_LETRA": "Se eu estou sofrendo é por causa"
+      },
+      "3093": {
+        "CANTOR": "Banda Brasil",
+        "COD": "3093",
+        "TITULO": "EU TE AMO,TE AMO,TE AMO",
+        "__collections__": {},
+        "INICIO_LETRA": "Tanto tempo longe de você"
+      },
+      "3220": {
+        "CANTOR": "Banda Brasil",
+        "COD": "3220",
+        "TITULO": "PODEROSA",
+        "__collections__": {},
+        "INICIO_LETRA": "Pode ser que eu consiga esquecer"
+      },
+      "15642": {
+        "CANTOR": "Banda Calypso",
+        "COD": "15642",
+        "TITULO": "A FESTA COMEÇOU",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô ô ô... É a banda Calypso agitando o meu"
+      },
+      "6843": {
+        "CANTOR": "Banda Calypso",
+        "COD": "6843",
+        "TITULO": "A LUA ME TRAIU",
+        "__collections__": {},
+        "INICIO_LETRA": "Parece até conto de fadas"
+      },
+      "7897": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7897",
+        "TITULO": "ACELEROU",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você se aproximou e me parou"
+      },
+      "7057": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7057",
+        "TITULO": "ANJO BANDIDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Gosta de me dominar"
+      },
+      "9617": {
+        "CANTOR": "Banda Calypso",
+        "COD": "9617",
+        "TITULO": "ARREPIOU",
+        "__collections__": {},
+        "INICIO_LETRA": "Chegue mais perto"
+      },
+      "1207": {
+        "CANTOR": "Banda Calypso",
+        "COD": "1207",
+        "TITULO": "CHÁ DE MARACUJÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Não adianta ligar que eu não atendo"
+      },
+      "6897": {
+        "CANTOR": "Banda Calypso",
+        "COD": "6897",
+        "TITULO": "CHAMO POR VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando eu te vi pela primeira vez…"
+      },
+      "6531": {
+        "CANTOR": "Banda Calypso",
+        "COD": "6531",
+        "TITULO": "CUMBIA DO AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "O amor que sinto por você…"
+      },
+      "17192": {
+        "CANTOR": "Banda Calypso",
+        "COD": "17192",
+        "TITULO": "DOCE MEL",
+        "__collections__": {},
+        "INICIO_LETRA": "Você tem um brilho no olhar que me deixa louca"
+      },
+      "7122": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7122",
+        "TITULO": "ESQUEÇA MEU CORAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu descobri"
+      },
+      "7359": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7359",
+        "TITULO": "FAÇO TUDO POR VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Não adianta dar motivos pra brigar"
+      },
+      "7158": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7158",
+        "TITULO": "ISSO É CALYPSO",
+        "__collections__": {},
+        "INICIO_LETRA": "Chegou virou botou pressão"
+      },
+      "17448": {
+        "CANTOR": "Banda Calypso",
+        "COD": "17448",
+        "TITULO": "MARIDOS E ESPOSAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Quantas vezes nem ouviu quantas vezes te falei"
+      },
+      "15340": {
+        "CANTOR": "Banda Calypso",
+        "COD": "15340",
+        "TITULO": "ME BEIJA AGORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Beija me beija me beija me beija"
+      },
+      "9485": {
+        "CANTOR": "Banda Calypso",
+        "COD": "9485",
+        "TITULO": "MUITO ALÉM DO PRAZER",
+        "__collections__": {},
+        "INICIO_LETRA": "Coração tá em pedaços desde que você"
+      },
+      "9309": {
+        "CANTOR": "Banda Calypso",
+        "COD": "9309",
+        "TITULO": "OBJETO DE DESEJO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não quero mais você"
+      },
+      "7673": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7673",
+        "TITULO": "PERDEU O TRONO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não... não vou deitar na mesma cama"
+      },
+      "1702": {
+        "CANTOR": "Banda Calypso",
+        "COD": "1702",
+        "TITULO": "PERDOA",
+        "__collections__": {},
+        "INICIO_LETRA": "Com você eu sonhei um lindo sonho"
+      },
+      "7223": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7223",
+        "TITULO": "PRA TE ESQUECER",
+        "__collections__": {},
+        "INICIO_LETRA": "Tanto que eu te imaginei te dei meu"
+      },
+      "7241": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7241",
+        "TITULO": "SE QUEBROU",
+        "__collections__": {},
+        "INICIO_LETRA": "Estou pedindo não me ligue mais"
+      },
+      "7257": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7257",
+        "TITULO": "TIC-TAC",
+        "__collections__": {},
+        "INICIO_LETRA": "Já é tarde"
+      },
+      "7265": {
+        "CANTOR": "Banda Calypso",
+        "COD": "7265",
+        "TITULO": "TUDO DE NOVO",
+        "__collections__": {},
+        "INICIO_LETRA": "A primeira vez que eu te vi"
+      },
+      "15360": {
+        "CANTOR": "Banda Calypso",
+        "COD": "15360",
+        "TITULO": "XONOU, XONOU",
+        "__collections__": {},
+        "INICIO_LETRA": "Minha boca deseja"
+      },
+      "1012": {
+        "CANTOR": "Banda Calypso",
+        "COD": "1012",
+        "TITULO": "MÁQUINA DO TEMPO",
+        "__collections__": {},
+        "INICIO_LETRA": "Saudade que não vai embora"
+      },
+      "1274": {
+        "CANTOR": "Banda Calypso",
+        "COD": "1274",
+        "TITULO": "SEM DIREÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu tenho andado tão carente tão fora"
+      },
+      "1030": {
+        "CANTOR": "Banda Calypso",
+        "COD": "1030",
+        "TITULO": "VIAGEM LOUCA",
+        "__collections__": {},
+        "INICIO_LETRA": "De onde vem"
+      },
+      "7995": {
+        "CANTOR": "Banda Calypso e Leonardo",
+        "COD": "7995",
+        "TITULO": "MAIS UMA CHANCE",
+        "__collections__": {},
+        "INICIO_LETRA": "Não foi só uma chuva de verão"
+      },
+      "3942": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3942",
+        "TITULO": "A DANÇA DA SENSUAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Veja a nova dança que eu vou te"
+      },
+      "3944": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3944",
+        "TITULO": "ABRE CORAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu amor, estou tão sozinha"
+      },
+      "2663": {
+        "CANTOR": "Banda Cheiro de Amor",
+        "COD": "2663",
+        "TITULO": "AMASSADINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Amassadinho você vai ver amassadinho vou"
+      },
+      "4066": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "4066",
+        "TITULO": "AVIÃOZINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Voa, voa aviãozinho, vai buscar"
+      },
+      "3657": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3657",
+        "TITULO": "É DEMAIS MEU REI",
+        "__collections__": {},
+        "INICIO_LETRA": "Vou dar a volta pelo globo terrestre"
+      },
+      "3084": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3084",
+        "TITULO": "ESTRELA PRIMEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "É luz do meu ser"
+      },
+      "15662": {
+        "CANTOR": "Banda Cheiro de Amor",
+        "COD": "15662",
+        "TITULO": "JASMIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Ôôôô ôôôôô... Vêm cá meu bem querer tô"
+      },
+      "15491": {
+        "CANTOR": "Banda Cheiro de Amor",
+        "COD": "15491",
+        "TITULO": "LERO LERO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não venha me dizer que o que aconteceu"
+      },
+      "3176": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3176",
+        "TITULO": "NOSSA GENTE (AVISA LÁ)",
+        "__collections__": {},
+        "INICIO_LETRA": "Avisa lá que eu vou chegar mais tarde"
+      },
+      "2718": {
+        "CANTOR": "Banda Cheiro de Amor",
+        "COD": "2718",
+        "TITULO": "O SEU ADEUS",
+        "__collections__": {},
+        "INICIO_LETRA": "Se for ficar sem seu amor eu piro"
+      },
+      "3927": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3927",
+        "TITULO": "OLHA EU AÍ",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha"
+      },
+      "3891": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3891",
+        "TITULO": "PEGA NO BALANÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "É bom demais fazer amor dividir"
+      },
+      "1328": {
+        "CANTOR": "Banda Cheiro de Amor",
+        "COD": "1328",
+        "TITULO": "PENSE EM MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Inspiração dos meus sonhos"
+      },
+      "7427": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "7427",
+        "TITULO": "QUIXABEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor de longe benzinho"
+      },
+      "3732": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3732",
+        "TITULO": "TODO MUNDO DANÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Todo mundo dança move corpo"
+      },
+      "3599": {
+        "CANTOR": "Banda Cheiro De Amor",
+        "COD": "3599",
+        "TITULO": "VAI SACUDIR, VAI ABALAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Vai sacudir vai abalar"
+      },
+      "1720": {
+        "CANTOR": "Banda Cheiro de Amor",
+        "COD": "1720",
+        "TITULO": "XEQUERÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Som e alto astral axé rock and roll"
+      },
+      "16148": {
+        "CANTOR": "Banda Cheiro de Amor - Lucas Lucco",
+        "COD": "16148",
+        "TITULO": "PROPOSTA INDECENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Que bom te ver fazia tempo que eu queria te"
+      },
+      "7604": {
+        "CANTOR": "Banda Colorado",
+        "COD": "7604",
+        "TITULO": "EXPLODE CORAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Vou cair na estrada hoje nada vai me"
+      },
+      "1300": {
+        "CANTOR": "Banda Djavú",
+        "COD": "1300",
+        "TITULO": "NÃO DESLIGA O TELEFONE",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor por favor não desliga o telefon"
+      },
+      "1517": {
+        "CANTOR": "Banda Djavú",
+        "COD": "1517",
+        "TITULO": "NAVE DO AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Sou dependente de você"
+      },
+      "2757": {
+        "CANTOR": "Banda Djavú",
+        "COD": "2757",
+        "TITULO": "SE NÃO VALORIZAR (UMBRELLA)",
+        "__collections__": {},
+        "INICIO_LETRA": "Se não valorizar com certeza você vai"
+      },
+      "1259": {
+        "CANTOR": "Banda Djavú",
+        "COD": "1259",
+        "TITULO": "ME LIBERA",
+        "__collections__": {},
+        "INICIO_LETRA": "O que pensa que eu sou"
+      },
+      "16416": {
+        "CANTOR": "Banda do Mar",
+        "COD": "16416",
+        "TITULO": "DIA CLAREAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Onda da manhã eu vi você sair do mar"
+      },
+      "15972": {
+        "CANTOR": "Banda do Mar",
+        "COD": "15972",
+        "TITULO": "MAIS NINGUÉM",
+        "__collections__": {},
+        "INICIO_LETRA": "Mesmo que não venha mais ninguém"
+      },
+      "3823": {
+        "CANTOR": "Banda Eva",
+        "COD": "3823",
+        "TITULO": "ALÔ PAIXÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não vou perder você"
+      },
+      "9391": {
+        "CANTOR": "Banda Eva",
+        "COD": "9391",
+        "TITULO": "ANJO",
+        "__collections__": {},
+        "INICIO_LETRA": "Acredita em anjo pois é sou o seu"
+      },
+      "3948": {
+        "CANTOR": "Banda Eva",
+        "COD": "3948",
+        "TITULO": "ARERÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo o que eu quero nessa vida toda"
+      },
+      "3607": {
+        "CANTOR": "Banda Eva",
+        "COD": "3607",
+        "TITULO": "BELEZA RARA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não posso deixar que o tempo"
+      },
+      "7559": {
+        "CANTOR": "Banda Eva",
+        "COD": "7559",
+        "TITULO": "BELO DIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não é todo dia"
+      },
+      "4068": {
+        "CANTOR": "Banda Eva",
+        "COD": "4068",
+        "TITULO": "CARRO VELHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Cheiro de pneu queimado"
+      },
+      "3465": {
+        "CANTOR": "Banda Eva",
+        "COD": "3465",
+        "TITULO": "COLEÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Sei que você gosta de brincar de amores"
+      },
+      "4106": {
+        "CANTOR": "Banda Eva",
+        "COD": "4106",
+        "TITULO": "DE LADINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não vou ficar sozinha."
+      },
+      "7363": {
+        "CANTOR": "Banda Eva",
+        "COD": "7363",
+        "TITULO": "FLORES",
+        "__collections__": {},
+        "INICIO_LETRA": "Já me feri no espinho daquela flor"
+      },
+      "3920": {
+        "CANTOR": "Banda Eva",
+        "COD": "3920",
+        "TITULO": "LEVA EU",
+        "__collections__": {},
+        "INICIO_LETRA": "Oh! Leva eu eva, eva"
+      },
+      "4002": {
+        "CANTOR": "Banda Eva",
+        "COD": "4002",
+        "TITULO": "LEVADA LOUCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Shake, shake, shake, shake, shake"
+      },
+      "1337": {
+        "CANTOR": "Banda Eva",
+        "COD": "1337",
+        "TITULO": "LUGAR DA ALEGRIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu quero o que se dá do seu do meu"
+      },
+      "7170": {
+        "CANTOR": "Banda Eva",
+        "COD": "7170",
+        "TITULO": "MAIS DO QUE PRECISO",
+        "__collections__": {},
+        "INICIO_LETRA": "Se bate forte o coração é sinal é si"
+      },
+      "7378": {
+        "CANTOR": "Banda Eva",
+        "COD": "7378",
+        "TITULO": "MANDA VER",
+        "__collections__": {},
+        "INICIO_LETRA": "Vem correndo pros meus braços"
+      },
+      "3371": {
+        "CANTOR": "Banda Eva",
+        "COD": "3371",
+        "TITULO": "ME ABRAÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você passa eu sinto o seu cheiro"
+      },
+      "9298": {
+        "CANTOR": "Banda Eva",
+        "COD": "9298",
+        "TITULO": "NOSSO AMOR É LINDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Chega de ficar bem longe"
+      },
+      "9870": {
+        "CANTOR": "Banda Eva",
+        "COD": "9870",
+        "TITULO": "RUA 15",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô subá subaiôba oba oba oba"
+      },
+      "15432": {
+        "CANTOR": "Banda Eva",
+        "COD": "15432",
+        "TITULO": "SIMPLESMENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você me beijar pétalas de rosas"
+      },
+      "3900": {
+        "CANTOR": "Banda Eva",
+        "COD": "3900",
+        "TITULO": "VEM MEU AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando te vejo paro logo em teu"
+      },
+      "1270": {
+        "CANTOR": "Banda Eva",
+        "COD": "1270",
+        "TITULO": "REGGAE DO PORTO",
+        "__collections__": {},
+        "INICIO_LETRA": "Entardeceu lá no porto"
+      },
+      "1028": {
+        "CANTOR": "Banda Eva",
+        "COD": "1028",
+        "TITULO": "TODA LINDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha lá ela passando toda linda"
+      },
+      "15236": {
+        "CANTOR": "Banda Eva - Timbalada",
+        "COD": "15236",
+        "TITULO": "NANÁ NANÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "Ê naná naná ê ê...Quero sentir do teu corpo um abraço"
+      },
+      "6946": {
+        "CANTOR": "Banda Eva E Ivete Sangalo",
+        "COD": "6946",
+        "TITULO": "NÃO ME CONTE SEUS PROBLEMAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Então não me conte os seus problemas…"
+      },
+      "1231": {
+        "CANTOR": "Banda Eva e Netinho",
+        "COD": "1231",
+        "TITULO": "QUÍMICA PERFEITA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando ela me olhou não vi mais nada"
+      },
+      "15503": {
+        "CANTOR": "Banda Kaçamba",
+        "COD": "15503",
+        "TITULO": "SAIA E BICICLETINHA",
+        "__collections__": {},
+        "INICIO_LETRA": "Ela tá de saia de bicicletinha uma mão tá"
+      },
+      "7139": {
+        "CANTOR": "Banda Mel",
+        "COD": "7139",
+        "TITULO": "FESTA NA BAHIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixei minha linda na praia de Itapu"
+      },
+      "3023": {
+        "CANTOR": "Banda Mel",
+        "COD": "3023",
+        "TITULO": "BAIANIDADE NAGÔ",
+        "__collections__": {},
+        "INICIO_LETRA": "Já pintou o verão calor no coração"
+      },
+      "3028": {
+        "CANTOR": "Banda Mel",
+        "COD": "3028",
+        "TITULO": "BATEU SAUDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Jura jura que me dá o seu amor"
+      },
+      "3359": {
+        "CANTOR": "Banda Mel",
+        "COD": "3359",
+        "TITULO": "CRENÇA E FÉ",
+        "__collections__": {},
+        "INICIO_LETRA": "Vou dar a volta no mundo eu vou"
+      },
+      "3383": {
+        "CANTOR": "Banda Mel",
+        "COD": "3383",
+        "TITULO": "PREFIXO DE VERÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando você chegar"
+      },
+      "16444": {
+        "CANTOR": "Banda Reflexu's",
+        "COD": "16444",
+        "TITULO": "MADAGASCAR OLODUM",
+        "__collections__": {},
+        "INICIO_LETRA": "Criaram-se vários reinados"
+      },
+      "6467": {
+        "CANTOR": "Banda Rouge E Klb",
+        "COD": "6467",
+        "TITULO": "NUNCA DEIXE DE SONHAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Há uma luz em algum lugar…"
+      },
+      "15765": {
+        "CANTOR": "Banda Uó",
+        "COD": "15765",
+        "TITULO": "CHOREI",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu ainda me lembro bem foi naquele dia"
+      },
+      "15535": {
+        "CANTOR": "Banda Uó",
+        "COD": "15535",
+        "TITULO": "FAZ UÓ",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu acordei danado com fogo"
+      },
+      "16312": {
+        "CANTOR": "Banda Uó - Karol Conka",
+        "COD": "16312",
+        "TITULO": "DA1LIKE",
+        "__collections__": {},
+        "INICIO_LETRA": "O cabelo precisava de um corte"
+      },
+      "15647": {
+        "CANTOR": "Banda Uó - Mr. Catra",
+        "COD": "15647",
+        "TITULO": "CATRACA",
+        "__collections__": {},
+        "INICIO_LETRA": "Tá top tá top tá é muito louco essa festa tá"
+      },
+      "15887": {
+        "CANTOR": "Banda Vingadora",
+        "COD": "15887",
+        "TITULO": "METRALHADORA",
+        "__collections__": {},
+        "INICIO_LETRA": "Paredão zangado grave tá batendo"
+      },
+      "9388": {
+        "CANTOR": "Banda Voa Dois",
+        "COD": "9388",
+        "TITULO": "AMOR PIREI",
+        "__collections__": {},
+        "INICIO_LETRA": "Sabe amor eu nunca esqueci"
+      },
+      "6841": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "6841",
+        "TITULO": "A CHAVE DA PORTA DA FRENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Becos escuros ruas desertas"
+      },
+      "17281": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "17281",
+        "TITULO": "BABY SUPORTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Baby suporte suporte baby... Amor escravo de"
+      },
+      "3511": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "3511",
+        "TITULO": "BETE BALANÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "Pode seguir a tua estrela o teu brinquedo"
+      },
+      "6724": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "6724",
+        "TITULO": "BILHETINHO AZUL",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu acordei com sono..."
+      },
+      "6817": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "6817",
+        "TITULO": "CUIDADO",
+        "__collections__": {},
+        "INICIO_LETRA": "O que você come o que você bebe"
+      },
+      "17063": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "17063",
+        "TITULO": "ENQUANTO ELA NÃO CHEGAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Quantas coisas eu ainda vou provar"
+      },
+      "16327": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "16327",
+        "TITULO": "FLORES DO MAL",
+        "__collections__": {},
+        "INICIO_LETRA": "Não me atire no mar de solidão"
+      },
+      "7614": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "7614",
+        "TITULO": "FÚRIA E FOLIA",
+        "__collections__": {},
+        "INICIO_LETRA": "Me chamo vento"
+      },
+      "2809": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "2809",
+        "TITULO": "MEUS BONS AMIGOS",
+        "__collections__": {},
+        "INICIO_LETRA": "Meus bons amigos onde estão"
+      },
+      "3890": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "3890",
+        "TITULO": "O POETA ESTÁ VIVO",
+        "__collections__": {},
+        "INICIO_LETRA": "Baby compra o jornal e vem ver o sol"
+      },
+      "16193": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "16193",
+        "TITULO": "PEDRA, FLOR E ESPINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu não quero ver o sol"
+      },
+      "7211": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "7211",
+        "TITULO": "PENSE E DANCE",
+        "__collections__": {},
+        "INICIO_LETRA": "Penso como vai minha vida"
+      },
+      "17196": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "17196",
+        "TITULO": "POLÍTICA VOZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não sou o mudo balbuciando querendo falar"
+      },
+      "16798": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "16798",
+        "TITULO": "POR QUE A GENTE É ASSIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Mais uma dose"
+      },
+      "4369": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "4369",
+        "TITULO": "POR VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Por você eu dançaria tango no teto..."
+      },
+      "17238": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "17238",
+        "TITULO": "PRA TODA A VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Primeiro foi a música a canção fez você sorrir"
+      },
+      "3223": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "3223",
+        "TITULO": "PRO DIA NASCER FELIZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Todo o dia a insônia me convence"
+      },
+      "4010": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "4010",
+        "TITULO": "PURO ÊXTASE",
+        "__collections__": {},
+        "INICIO_LETRA": "Toda brincadeira"
+      },
+      "15093": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "15093",
+        "TITULO": "SORTE E AZAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo é questão de obedecer ao instinto"
+      },
+      "17168": {
+        "CANTOR": "Barão Vermelho",
+        "COD": "17168",
+        "TITULO": "TÃO LONGE DE TUDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Solidão amiga do peito"
+      },
+      "17151": {
+        "CANTOR": "Bárbara Dias",
+        "COD": "17151",
+        "TITULO": "9 MESES (ORAÇÃO DO BEBÊ)",
+        "__collections__": {},
+        "INICIO_LETRA": "Um mês e o tempo voa eu já sou"
+      },
+      "1775": {
+        "CANTOR": "Bartô Galeno",
+        "COD": "1775",
+        "TITULO": "NO TOCA-FITA DO MEU CARRO",
+        "__collections__": {},
+        "INICIO_LETRA": "No toca-fita do meu carro"
+      },
+      "15421": {
+        "CANTOR": "Bartô Galeno",
+        "COD": "15421",
+        "TITULO": "O GRANDE AMOR DA MINHA VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor você não sabe o quanto eu estou"
+      },
+      "1797": {
+        "CANTOR": "Bartô Galeno",
+        "COD": "1797",
+        "TITULO": "SE EU FOR EMBORA É PRO NOSSO BEM",
+        "__collections__": {},
+        "INICIO_LETRA": "Se qualquer dia desses ao você desper"
+      },
+      "15508": {
+        "CANTOR": "Bartô Galeno",
+        "COD": "15508",
+        "TITULO": "SÓ LEMBRANÇAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Só lembranças... E nada mais"
+      },
+      "15481": {
+        "CANTOR": "Batifun",
+        "COD": "15481",
+        "TITULO": "ABANA",
+        "__collections__": {},
+        "INICIO_LETRA": "Vai abana que o pretinho tá mal assopra"
+      },
+      "6954": {
+        "CANTOR": "Bebel Gilberto",
+        "COD": "6954",
+        "TITULO": "O CAMINHO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não quero mais seguir um só caminho…"
+      },
+      "7041": {
+        "CANTOR": "Bebeto",
+        "COD": "7041",
+        "TITULO": "A BELEZA É VOCÊ MENINA",
+        "__collections__": {},
+        "INICIO_LETRA": "A beleza é você menina no seu jeito"
+      },
+      "7954": {
+        "CANTOR": "Bebeto",
+        "COD": "7954",
+        "TITULO": "ESSA MENINA",
+        "__collections__": {},
+        "INICIO_LETRA": "Essa menina não sabe"
+      },
+      "9338": {
+        "CANTOR": "Bebeto",
+        "COD": "9338",
+        "TITULO": "SEGURA A NEGA",
+        "__collections__": {},
+        "INICIO_LETRA": "A gente pra viver bem nesse mundo"
+      },
+      "7044": {
+        "CANTOR": "Belchior",
+        "COD": "7044",
+        "TITULO": "À PALO SECO",
+        "__collections__": {},
+        "INICIO_LETRA": "Se você vier me perguntar por onde"
+      },
+      "7052": {
+        "CANTOR": "Belchior",
+        "COD": "7052",
+        "TITULO": "ALUCINAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu não estou interessado em nenhuma"
+      },
+      "3015": {
+        "CANTOR": "Belchior",
+        "COD": "3015",
+        "TITULO": "APENAS UM RAPAZ LATINO AMERICANO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sou apenas um rapaz"
+      },
+      "1323": {
+        "CANTOR": "Belchior",
+        "COD": "1323",
+        "TITULO": "COMENTÁRIOS A RESPEITO DE JOHN",
+        "__collections__": {},
+        "INICIO_LETRA": "Saia do meu caminho eu prefiro andar"
+      },
+      "15767": {
+        "CANTOR": "Belchior",
+        "COD": "15767",
+        "TITULO": "CORAÇÃO SELVAGEM",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu bem guarde uma frase pra mim"
+      },
+      "1653": {
+        "CANTOR": "Belchior",
+        "COD": "1653",
+        "TITULO": "DIVINA COMÉDIA HUMANA",
+        "__collections__": {},
+        "INICIO_LETRA": "Estava mais angustiado"
+      },
+      "3921": {
+        "CANTOR": "Belchior",
+        "COD": "3921",
+        "TITULO": "MEDO DE AVIÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Foi por medo de avião"
+      },
+      "1387": {
+        "CANTOR": "Belchior",
+        "COD": "1387",
+        "TITULO": "NA HORA DO ALMOÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "No centro da sala diante da mesa"
+      },
+      "3854": {
+        "CANTOR": "Belchior",
+        "COD": "3854",
+        "TITULO": "PARALELAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Dentro do carro"
+      },
+      "16820": {
+        "CANTOR": "Belchior",
+        "COD": "16820",
+        "TITULO": "SUJEITO DE SORTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Presentemente eu posso me considerar"
+      },
+      "6556": {
+        "CANTOR": "Belchior",
+        "COD": "6556",
+        "TITULO": "TODO SUJO DE BATOM",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu estou muito cansado do peso da…"
+      },
+      "7267": {
+        "CANTOR": "Belchior",
+        "COD": "7267",
+        "TITULO": "TUDO OUTRA VEZ",
+        "__collections__": {},
+        "INICIO_LETRA": "Há tempo muito tempo que eu estou lon"
+      },
+      "15576": {
+        "CANTOR": "Bell Marques",
+        "COD": "15576",
+        "TITULO": "LINDO É VIVER",
+        "__collections__": {},
+        "INICIO_LETRA": "E o amor que a gente procurou por aí"
+      },
+      "15581": {
+        "CANTOR": "Bell Marques",
+        "COD": "15581",
+        "TITULO": "NICOLAU",
+        "__collections__": {},
+        "INICIO_LETRA": "Nicolau foi na unidade C passar para o CD"
+      },
+      "16664": {
+        "CANTOR": "Belo",
+        "COD": "16664",
+        "TITULO": "CONTRAMAO",
+        "__collections__": {},
+        "INICIO_LETRA": "Se bater no coracao vou deixar fluir"
+      },
+      "6012": {
+        "CANTOR": "Belo",
+        "COD": "6012",
+        "TITULO": "DESAFIO",
+        "__collections__": {},
+        "INICIO_LETRA": "Já virou desafio me apossar..."
+      },
+      "9659": {
+        "CANTOR": "Belo",
+        "COD": "9659",
+        "TITULO": "DESSE JEITO É RUIM PRA MIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu aqui olhando o telefone"
+      },
+      "1685": {
+        "CANTOR": "Belo",
+        "COD": "1685",
+        "TITULO": "DIREITO DE TE AMAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Você me diz que somos como água"
+      },
+      "16994": {
+        "CANTOR": "Belo",
+        "COD": "16994",
+        "TITULO": "É O QUE EU MEREÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "Deixa que eu seguro a barra"
+      },
+      "6057": {
+        "CANTOR": "Belo",
+        "COD": "6057",
+        "TITULO": "ETERNAMENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Por que Por que que todo amor..."
+      },
+      "7141": {
+        "CANTOR": "Belo",
+        "COD": "7141",
+        "TITULO": "FIM DA TRISTEZA",
+        "__collections__": {},
+        "INICIO_LETRA": "A vida ensinou eu sei vivendo aprend"
+      },
+      "7981": {
+        "CANTOR": "Belo",
+        "COD": "7981",
+        "TITULO": "INTRIGA DA OPOSIÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Diz pra mim que vai ficar"
+      },
+      "1428": {
+        "CANTOR": "Belo",
+        "COD": "1428",
+        "TITULO": "INVENCÍVEL",
+        "__collections__": {},
+        "INICIO_LETRA": "Viajei por tanto tempo pra te ver"
+      },
+      "6261": {
+        "CANTOR": "Belo",
+        "COD": "6261",
+        "TITULO": "LAMBADA DE SERPENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Cuidado pé de milho que demora na…"
+      },
+      "7644": {
+        "CANTOR": "Belo",
+        "COD": "7644",
+        "TITULO": "NADA VAI SEPARAR",
+        "__collections__": {},
+        "INICIO_LETRA": "De manhã sem te ver sinto um vazio em"
+      },
+      "15740": {
+        "CANTOR": "Belo",
+        "COD": "15740",
+        "TITULO": "NOS DESEJOS DE UMA PAIXÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Na sua ausência eu já chorei um mar mas"
+      },
+      "6192": {
+        "CANTOR": "Belo",
+        "COD": "6192",
+        "TITULO": "PROCURA-SE UM AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Procura-se um amor que tenha cor…"
+      },
+      "6111": {
+        "CANTOR": "Belo",
+        "COD": "6111",
+        "TITULO": "QUEM SERÁ",
+        "__collections__": {},
+        "INICIO_LETRA": "\"Alô quem tá falando como quem tá..."
+      },
+      "1399": {
+        "CANTOR": "Belo",
+        "COD": "1399",
+        "TITULO": "REINVENTAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Diz que já é tarde que não tem mais"
+      },
+      "6384": {
+        "CANTOR": "Belo",
+        "COD": "6384",
+        "TITULO": "RESUMO DA FELICIDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu agradeço a Deus por existir você…"
+      },
+      "4499": {
+        "CANTOR": "Belo",
+        "COD": "4499",
+        "TITULO": "TUA BOCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Mel tua boca tem um mel..."
+      },
+      "2775": {
+        "CANTOR": "Belo",
+        "COD": "2775",
+        "TITULO": "TUDO MUDOU",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo mudou depois que eu senti o sabor"
+      },
+      "9560": {
+        "CANTOR": "Belo",
+        "COD": "9560",
+        "TITULO": "VEM",
+        "__collections__": {},
+        "INICIO_LETRA": "Você estava ali parada tão sozinha"
+      },
+      "15518": {
+        "CANTOR": "Belo",
+        "COD": "15518",
+        "TITULO": "VI AMOR NO SEU OLHAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Gosto mesmo de olhar a lua gosto de"
+      },
+      "6320": {
+        "CANTOR": "Belo",
+        "COD": "6320",
+        "TITULO": "VIVER POR ELA",
+        "__collections__": {},
+        "INICIO_LETRA": "Com ela eu aprendi o gosto do amor…"
+      },
+      "9568": {
+        "CANTOR": "Belo",
+        "COD": "9568",
+        "TITULO": "VOCÊ SABE",
+        "__collections__": {},
+        "INICIO_LETRA": "Você sabe que nasceu pra mim"
+      },
+      "1256": {
+        "CANTOR": "Belo",
+        "COD": "1256",
+        "TITULO": "INCONDICIONALMENTE",
+        "__collections__": {},
+        "INICIO_LETRA": "Você vem me procurar faço tudo pra"
+      },
+      "1023": {
+        "CANTOR": "Belo",
+        "COD": "1023",
+        "TITULO": "PERFUME",
+        "__collections__": {},
+        "INICIO_LETRA": "Vivia com o coração fechado"
+      },
+      "9525": {
+        "CANTOR": "Belo",
+        "COD": "9525",
+        "TITULO": "RAZÃO DA MINHA VIDA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando eu me vi perdido"
+      },
+      "16226": {
+        "CANTOR": "Belo - Ivete Sangalo",
+        "COD": "16226",
+        "TITULO": "LINDA ROSA",
+        "__collections__": {},
+        "INICIO_LETRA": "O linda rosa pecaminosa criatura"
+      },
+      "9523": {
+        "CANTOR": "Belo e Flávia Santana",
+        "COD": "9523",
+        "TITULO": "QUERO TE AMAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Hoje eu acordei"
+      },
+      "7631": {
+        "CANTOR": "Belô Veloso",
+        "COD": "7631",
+        "TITULO": "MAMÃE, CORAGEM",
+        "__collections__": {},
+        "INICIO_LETRA": "Mamãe mamãe não chore"
+      },
+      "3698": {
+        "CANTOR": "Benito De Paula",
+        "COD": "3698",
+        "TITULO": "CHARLIE BROWN",
+        "__collections__": {},
+        "INICIO_LETRA": "Eh, meu amigo Charlie"
+      },
+      "4124": {
+        "CANTOR": "Benito De Paula",
+        "COD": "4124",
+        "TITULO": "MULHER BRASILEIRA",
+        "__collections__": {},
+        "INICIO_LETRA": "Agora chegou a vez vou cantar"
+      },
+      "4097": {
+        "CANTOR": "Benito De Paula",
+        "COD": "4097",
+        "TITULO": "SE NÃO FOR AMOR",
+        "__collections__": {},
+        "INICIO_LETRA": "Você me olha desse jeito"
+      },
+      "3777": {
+        "CANTOR": "Benito De Paula",
+        "COD": "3777",
+        "TITULO": "VAI FICAR NA SAUDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Você cortou o barato do meu amor"
+      },
+      "1491": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "1491",
+        "TITULO": "AH, COMO EU AMEI",
+        "__collections__": {},
+        "INICIO_LETRA": "O amor que eu tenho guardado no peito"
+      },
+      "15024": {
+        "CANTOR": "Benito di Paula",
+        "COD": "15024",
+        "TITULO": "ALÉM DE TUDO",
+        "__collections__": {},
+        "INICIO_LETRA": "Você ficou sem jeito e encabulada"
+      },
+      "9385": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "9385",
+        "TITULO": "AMIGO DO SOL AMIGO DA LUA",
+        "__collections__": {},
+        "INICIO_LETRA": "E eu criança presa em brinquedos de t"
+      },
+      "15006": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "15006",
+        "TITULO": "ASSOBIAR OU CHUPAR CANA",
+        "__collections__": {},
+        "INICIO_LETRA": "Seria muito bom seria muito legal"
+      },
+      "9629": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "9629",
+        "TITULO": "CANÇÃO DE VIVER COM VOCÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Olha eu que tinha até um mar aberto"
+      },
+      "15844": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "15844",
+        "TITULO": "COMO DIZIA O MESTRE",
+        "__collections__": {},
+        "INICIO_LETRA": "É acaba a valentia de um homem"
+      },
+      "6651": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "6651",
+        "TITULO": "DO JEITO QUE A VIDA QUER",
+        "__collections__": {},
+        "INICIO_LETRA": "Ninguém sabe a mágoa que trago..."
+      },
+      "7641": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "7641",
+        "TITULO": "MODIFICAÇÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu acalentei seu pranto até dediquei"
+      },
+      "7188": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "7188",
+        "TITULO": "NÃO PRECISA ME PERDOAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Amor voltei pra pedir perdão"
+      },
+      "9864": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "9864",
+        "TITULO": "PROTEÇÃO ÀS BORBOLETAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu sou como a borboleta"
+      },
+      "7228": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "7228",
+        "TITULO": "QUE BELEZA",
+        "__collections__": {},
+        "INICIO_LETRA": "Que beleza ô que beleza"
+      },
+      "6310": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "6310",
+        "TITULO": "RETALHOS DE CETIM",
+        "__collections__": {},
+        "INICIO_LETRA": "Ensaiei meu samba o ano inteiro…"
+      },
+      "9872": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "9872",
+        "TITULO": "SANFONA BRANCA",
+        "__collections__": {},
+        "INICIO_LETRA": "Aquela sanfona branca"
+      },
+      "6477": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "6477",
+        "TITULO": "TUDO ESTÁ NO SEU LUGAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Tudo está no seu lugar…"
+      },
+      "7274": {
+        "CANTOR": "Benito Di Paula",
+        "COD": "7274",
+        "TITULO": "VIOLÃO NÃO SE EMPRESTA A NINGUÉM",
+        "__collections__": {},
+        "INICIO_LETRA": "Onde está você com o meu violão"
+      },
+      "1641": {
+        "CANTOR": "Benito Di Paula e Demônios da Garoa",
+        "COD": "1641",
+        "TITULO": "A VIDA É DURA",
+        "__collections__": {},
+        "INICIO_LETRA": "Quais quais quali cos quais"
+      },
+      "6441": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "6441",
+        "TITULO": "1800 COLINAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Subi mais de mil e oitocentas colinas…"
+      },
+      "6801": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "6801",
+        "TITULO": "A CHUVA CAI",
+        "__collections__": {},
+        "INICIO_LETRA": "A chuva cai lá fora você vai se molha"
+      },
+      "17081": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "17081",
+        "TITULO": "ACREDITAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Acreditar eu não recomeçar jamais"
+      },
+      "15401": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "15401",
+        "TITULO": "ÁGUA DE CHUVA NO MAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Ôooo meu coração hoje tem paz"
+      },
+      "1162": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "1162",
+        "TITULO": "AMOR DE VERDADE",
+        "__collections__": {},
+        "INICIO_LETRA": "Tem que ser agora ou nunca mais"
+      },
+      "3302": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "3302",
+        "TITULO": "ANDANÇA",
+        "__collections__": {},
+        "INICIO_LETRA": "Vi tanta areia andei, a lua cheia eu sei"
+      },
+      "7058": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "7058",
+        "TITULO": "ANTES ELE DO QUE EU",
+        "__collections__": {},
+        "INICIO_LETRA": "Morreu... o nosso amor morreu"
+      },
+      "1375": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "1375",
+        "TITULO": "CABÔ MEU PAI",
+        "__collections__": {},
+        "INICIO_LETRA": "O pai me disse que a tradição é lante"
+      },
+      "6055": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "6055",
+        "TITULO": "COISINHA DO PAI",
+        "__collections__": {},
+        "INICIO_LETRA": "Ô coisinha tão bonitinha do pai..."
+      },
+      "7098": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "7098",
+        "TITULO": "CORDA NO PESCOÇO",
+        "__collections__": {},
+        "INICIO_LETRA": "E o povo como está"
+      },
+      "16096": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "16096",
+        "TITULO": "FIRME E FORTE",
+        "__collections__": {},
+        "INICIO_LETRA": "E aproveita aproveita hoje porque a vida é uma só"
+      },
+      "6778": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "6778",
+        "TITULO": "FOLHAS SECAS",
+        "__collections__": {},
+        "INICIO_LETRA": "Quando eu piso em folhas secas..."
+      },
+      "16516": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "16516",
+        "TITULO": "MALANDRO SOU EU",
+        "__collections__": {},
+        "INICIO_LETRA": "Segura teu santo seu moço teu santo é de barro"
+      },
+      "7234": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "7234",
+        "TITULO": "SACO DE FEIJÃO",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu Deus mas para que tanto dinheiro"
+      },
+      "16868": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "16868",
+        "TITULO": "SAMBA DE ARERÊ",
+        "__collections__": {},
+        "INICIO_LETRA": "Meu samba tem muito axé"
+      },
+      "3296": {
+        "CANTOR": "Beth Carvalho",
+        "COD": "3296",
+        "TITULO": "VOU FESTEJAR",
+        "__collections__": {},
+        "INICIO_LETRA": "Chora não vou ligar, não vou ligar"
+      },
+      "15534": {
+        "CANTOR": "Beth Carvalho - Mercedes Sosa",
+        "COD": "15534",
+        "TITULO": "EU SÓ PEÇO A DEUS",
+        "__collections__": {},
+        "INICIO_LETRA": "Que a dor não me seja indiferente só peço a Deus"
+      },
+      "17053": {
+        "CANTOR": "Beth Carvalho - Zeca Pagodinho",
+        "COD": "17053",
+        "TITULO": "CAMARÃO QUE DORME A ONDA LEVA",
+        "__collections__": {},
+        "INICIO_LETRA": "Não pense que meu coração"
+      },
+      "6696": {
+        "CANTOR": "Beth Lamas",
+        "COD": "6696",
+        "TITULO": "FAMA",
+        "__collections__": {},
+        "INICIO_LETRA": "Money no bolso é tudo que eu quero..."
+      },
+      "7167": {
+        "CANTOR": "Betinho",
+        "COD": "7167",
+        "TITULO": "LÚCIA ESPARADRAPO",
+        "__collections__": {},
+        "INICIO_LETRA": "Não se muda nem desgruda"
+      },
+      "7047": {
+        "CANTOR": "Beto Barbosa",
+        "COD": "7047",
+        "TITULO": "ADOCICA",
+        "__collections__": {},
+        "INICIO_LETRA": "Adocica meu amor adocica"
+      },
+      "7182": {
+        "CANTOR": "Beto Barbosa",
+        "COD": "7182",
+        "TITULO": "MORENÁ MORENOU",
+        "__collections__": {},
+        "INICIO_LETRA": "Eu gosto de você menina só você sabe"
+      }
+    },
+    "Usuarios": {
+      "0jfQWXSN1bdg7bRd1VON": {
+        "nm_usuario": "testeLogin",
+        "nm_senha": "testeSenha",
+        "__collections__": {}
+      },
+      "RfKK3SUCmcan65zL3DCH": {
+        "nm_senha": "teste2Senha",
+        "nm_usuario": "teste2Usuario",
+        "__collections__": {}
+      }
+    }
+  }
+}
